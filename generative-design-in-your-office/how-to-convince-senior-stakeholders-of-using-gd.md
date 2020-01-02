@@ -1,4 +1,4 @@
-# How to convince senior stakeholders of using Generative Design?
+# How to Convince Senior Stakeholders of Using Generative Design?
 
 
 
