@@ -1,12 +1,12 @@
 # What Generative Design Can’t Be Used For?
 
-If you want to implement Refinery in your office it is important to understand what Generative Design can and cannot do, and communicate it to your peers. False expectations may lead stakeholders to mistrust Generative Design and could risk losing interest in investing in further applications.
-
 ![](../.gitbook/assets/gdcantbeusedfor.png)
+
+If you want to implement Refinery in your office it is important to understand what Generative Design can and cannot do, and communicate it to your peers. False expectations may lead stakeholders to mistrust Generative Design and could risk losing interest in investing in further applications.
 
 ## **Myths and Misconceptions:**
 
-Although Generative Design is great at solving problems, there are certain problems that are usually assigned to Generative Design that should not be. Some of the common mistakes are:
+Although Generative Design is great at solving problems, there are certain problems that are usually assigned to Generative Design that should not be. Guiding a team into allocating the appropiate amount of time and effort into the most appropiate problems can be as important as solving the problems. Some of the common mistakes are described below:
 
 ### **Evident Solutions**
 
@@ -18,17 +18,17 @@ One of the advantages of Refinery is that it may help you clarify multiple dimen
 
 ![](../.gitbook/assets/refineryvsdynamo.png)
 
-Even though refinery works with dynamo it is important to differentiate between problems that need a certain answer and problems that need exploration. If you intend on solving a problem that has a definite answer use dynamo, if you intend to explore solutions use refinery.
+Even though refinery works with Dynamo it is important to differentiate between problems that need an automatization process and problems that need exploration. In general terms, If you intend on solving a problem that deals with automatization use Dynamo, if you intend to explore multiple solutions use Refinery.
 
 ### Problem Is Not Defined in Terms of Variables
 
-![](../.gitbook/assets/p5.png)
+![](../.gitbook/assets/refineryvariables%20%281%29.png)
 
 A generative design problem needs a set of variables/inputs. These inputs need to be manipulated and their variation should result in a design space to explore. If the design space is too limited, Refinery would not be able to show heterogeneous answers. 
 
-### There Is No Clear Correlation Between How Inputs Affect Optimization Criteria
+### No Clear Relation Between Variables and Intensions
 
-![](../.gitbook/assets/p6.png)
+![](../.gitbook/assets/refineryvariablesrelation%20%282%29.png)
 
-If there is no definite relation between how inputs affect optimization then refinery can be misguided into interpreting variables in a way that they are not intended. May develop results that were misguided by the malfunctioning workflow.
+Unfortunately, Refinery can’t define your design’s intensions, it would be like asking Google for the meaning of life. If you don’t have clear goals to evaluate or clear ways of defining which designs are acceptable then Refinery can’t help you. There should also be a clear understanding on how intensions relate to variables.
 
