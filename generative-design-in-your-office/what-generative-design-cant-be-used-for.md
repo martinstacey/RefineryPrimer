@@ -18,7 +18,7 @@ One of the advantages of Refinery is that it may help you clarify multiple dimen
 
 ![](../.gitbook/assets/refineryvsdynamo.png)
 
-Even though refinery works with Dynamo it is important to differentiate between problems that need an automatization process and problems that need exploration. In general terms, If you intend on solving a problem that deals with automatization use Dynamo, if you intend to explore multiple solutions use Refinery.
+Even though refinery works with Dynamo it is important to differentiate between problems that need an automatization process and problems that need exploration. In general terms, If you intend to solve a problem that deals with automatization use Dynamo, if you intend to explore multiple solutions use Refinery.
 
 ### Problem Is Not Defined in Terms of Variables
 
@@ -30,5 +30,5 @@ A generative design problem needs a set of variables/inputs. These inputs need t
 
 ![](../.gitbook/assets/refineryvariablesrelation%20%282%29.png)
 
-Unfortunately, Refinery can’t define your design’s intensions, it would be like asking Google for the meaning of life. If you don’t have clear goals to evaluate or clear ways of defining which designs are acceptable then Refinery can’t help you. There should also be a clear understanding on how intensions relate to variables.
+Unfortunately, Refinery can’t define your design’s intensions, it would be like asking Google for the meaning of life. If you don’t have clear goals to evaluate or clear ways of defining which designs are acceptable then Refinery can’t help you. There should also be a clear understanding on how intensions relate to your inputs.
 
