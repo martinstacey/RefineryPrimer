@@ -62,7 +62,7 @@
     * [What is Machine Learning?](next-steps-.-.-./machine-learning/what-is-machine-learning.md)
     * [Is Generative Design Machine Learning?](next-steps-.-.-./machine-learning/is-generative-design-machine-learning.md)
     * [Does Generative Design Use Machine learning?](next-steps-.-.-./machine-learning/does-generative-design-use-machine-learning.md)
-    * [Can Machine Learning And Generative Design work together?](next-steps-.-.-./machine-learning/can-machine-learning-and-generative-design-work-together.md)
+    * [Can Machine Learning and Generative Design Work Together?](next-steps-.-.-./machine-learning/can-machine-learning-and-generative-design-work-together.md)
 * [Sample Workflows](04-sample-workflows/README.md)
   * [Getting Started Workflows](04-sample-workflows/04-01_getting-started-workflows/README.md)
     * [Highest Point of a Surface](04-sample-workflows/04-01_getting-started-workflows/04-01-01_highest-point-of-a-surface.md)
