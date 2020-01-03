@@ -1,4 +1,4 @@
-# Need Professional Help?
+# Hiring a Generative Designer
 
 ![](../.gitbook/assets/needpro.png)
 

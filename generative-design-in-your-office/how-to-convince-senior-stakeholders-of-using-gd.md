@@ -10,27 +10,27 @@ If you are clear that Refinery can improve performance in your office and you ar
 
 Below are some tips that may help you explain/convince senior stakeholders and people outside of the AEC technology spectrum to use or invest in refinery:
 
-### Focus on practical issues local to your practice
+### Focus on Practical Issues Local to Your Practice
 
 ![](../.gitbook/assets/localproblems%20%281%29.png)
 
 Instead of focusing on the available possibilities Refinery can offer, start by thinking of day to day concerns you may address in your practice. Analyse what is keeping your firm to be more productive, and ask if Refinery can help you solve it.
 
-### Start with easy problems
+### Start With Easy Problems
 
 ![](../.gitbook/assets/easyproblems.png)
 
-Start with easy and small problems to later on tackle bigger and more complex problems. Do not adress If you are fasing either break some of your design  don’t go straight to solving the most complex problems your office has.
+Start with easy and small problems to later on tackle bigger and more complex problems. Try to break complex problems into simpler and generic problems, so that the time that you spend on workflows can be re-used later on. 
 
-### Make reasonable time frames for solving a problem.
+### Make Reasonable Time Frames for Solving a Problem
 
 ![](../.gitbook/assets/timeframes.png)
 
-Every problem you intend on solving should be allocated to a time frame. This would make it easier to evaluate which problems should be tackled first, because they would be more efficient to solve.
+Every problem you intend to solve should have a time frame and cost defined. This would make it easier to evaluate what problems are worth tackling, and what problems would have the higher return on investment. 
 
-### Don’t oversell it
+### Do not Oversell Refinery
 
 ![](../.gitbook/assets/oversell.png)
 
-If you first tell people you are going to solve all of their problems you would be expected to do so. So create expectations that you can fulfil later on.
+As described in section: `What Generative Design Cant Be Used For?` Myths and misconceptions on the power of Refinery can lead stakeholders to mistrust efforts on implementing it. 
 
