@@ -29,7 +29,7 @@ Machine learning \(for our concern\) are methods for analysing data as well as p
 
 ![](../../.gitbook/assets/whatisml.png)
 
-### So why the big hype?
+### So Why the Big Hype?
 
 Due to the immense amount of data that we currently have this methods have become way powerful and accurate. Going from classifying cancerous cells from images to predicting if a costumer would by a product or not. Remember that you can use many more variables that a single mind can visualize.
 
