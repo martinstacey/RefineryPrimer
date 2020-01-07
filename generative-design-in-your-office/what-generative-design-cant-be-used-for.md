@@ -2,33 +2,33 @@
 
 ![](../.gitbook/assets/gdcantbeusedfor.png)
 
-If you want to implement Refinery in your office it is important to understand what Generative Design can and cannot do, and communicate it to your peers. False expectations may lead stakeholders to mistrust Generative Design and could risk losing interest in investing in further applications.
+If you want to implement Refinery in your office it is important to understand what generative design can and cannot do, and communicate it correctly to your peers. Unrealistic expectations may lead to a level of mistrust within potential users and could risk losing further interest in investing in generative design applications.
 
 ## **Myths and Misconceptions:**
 
-Although Generative Design is great at solving problems, there are certain problems that are usually assigned to Generative Design that should not be. Guiding a team into allocating the appropiate amount of time and effort into the most appropiate problems can be as important as solving the problems. Some of the common mistakes are described below:
+Although generative design is great at solving problems, there are certain problems that are usually assigned to generative design that should not be. Guiding a team into allocating the appropriate amount of time and effort into the most applicable problems can be just as important as solving the problem itself. Some of the common mistakes are described below:
 
 ### **Evident Solutions**
 
 ![](../.gitbook/assets/evidentsolutions%20%281%29.png)
 
-One of the advantages of Refinery is that it may help you clarify multiple dimensionality and complexity that go way beyond human understanding. Although some of the examples presented in this primer are simple the true potential of Refinery is achieved by incorporating conflicting criteria and right amount of complexity. To avoid wasting time and make Refinery a valuable resource focus on problems that do not have evident solutions. If your problem delivers evident solutions you may be lacking variables. ****
+One of the advantages of Refinery is that it may help you clarify multiple dimensionality and complexity that go way beyond human understanding. Although some of the examples presented in this primer are simple, the true potential of Refinery is achieved by incorporating conflicting criteria and the right amount of complexity. To avoid wasting time and ensure Refinery becomes a valuable resource, focus on problems that do not have evident solutions. If your problem delivers evident solutions you may be lacking variables. ****
 
 ### Confusing Visual Programming Problems with Generative Design Problems
 
 ![](../.gitbook/assets/refineryvsdynamo.png)
 
-Even though refinery works with Dynamo it is important to differentiate between problems that need an automatization process and problems that need exploration. In general terms, If you intend to solve a problem that deals with automatization use Dynamo, if you intend to explore multiple solutions use Refinery.
+Even though Refinery works with Dynamo, it is important to differentiate between problems that need an automated process and problems that need exploration. In general terms, if you intend to solve a problem that deals with automation use Dynamo, whereas if you intend to explore multiple solutions use Refinery.
 
-### Problem Is Not Defined in Terms of Variables
+### Problem is Not Defined in Terms of Variables
 
 ![](../.gitbook/assets/refineryvariables%20%281%29.png)
 
-A generative design problem needs a set of variables/inputs. These inputs need to be manipulated and their variation should result in a design space to explore. If the design space is too limited, Refinery would not be able to show heterogeneous answers. 
+A generative design problem needs a set of variables/inputs. These inputs need to be manipulated and their variation should result in a design space to explore. If the design space is too limited, Refinery is not able to show heterogeneous results. 
 
-### No Clear Relation Between Variables and Intensions
+### No Clear Relationship Between Variables and Intention
 
 ![](../.gitbook/assets/refineryvariablesrelation%20%282%29.png)
 
-Unfortunately, Refinery can’t define your design’s intensions, it would be like asking Google for the meaning of life. If you don’t have clear goals to evaluate or clear ways of defining which designs are acceptable then Refinery can’t help you. There should also be a clear understanding on how intensions relate to your inputs.
+Unfortunately, Refinery can’t define your design’s intent. It would be similar to asking Google for the meaning of life. If you don’t have clear goals to evaluate or clear ways of defining which designs are acceptable then Refinery can’t help you. There should also be a clear understanding on how the intent relates to your inputs.
 

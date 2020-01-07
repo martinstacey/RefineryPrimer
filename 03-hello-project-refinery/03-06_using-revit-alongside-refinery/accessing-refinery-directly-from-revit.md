@@ -1,6 +1,6 @@
 # Accessing Refinery Directly From Revit
 
-In Revit preview release you would find a new plugin that may let you access Refinery directly from Revit. This plugin is intended for architects and stakeholders who are not familiar with Dynamo to be able to try Refinery’s potential without going into the nuts and bolts of Refinery’s workflows.
+In the Revit preview release you will find a new plugin that will let you access Refinery directly from Revit. This plugin is intended for users who are not familiar with Dynamo to be able to explore and try Refinery without needing to create their own workflows \(similar to Dynamo Player\). 
 
 ### Accessing Refinery
 
@@ -12,7 +12,7 @@ In the `Generative Design` panel there are two options, `Create Study` and `Expl
 
 ![](../../.gitbook/assets/accessrefinery2%20%282%29.png)
 
-Some examples of workflows created would appear in this section. Select a workflow you would like to try.
+Examples of workflows previously created appear in this window. By default Refinery ships with a number of sample workflows. To proceed, select a workflow you wish to try.
 
 ![](../../.gitbook/assets/accessrefinery3.png)
 
@@ -20,7 +20,7 @@ Follow the instructions for each section of the dialog. If a Revit input is requ
 
 ![](../../.gitbook/assets/accessrefinery4%20%281%29.png)
 
-Generate designs and select a design. If you wish to export your result to Revit click on `Create Revit Elements`
+Once all inputs are satisfied, click Generate. This will initiate Refinery and present you with the same window you will be familiar with from opening running studies from the Dynamo environment. From here you can explore all the different options through the available charts and tables. If you select a design, you can then export your results to Revit by clicking on the `Create Revit Elements` button. 
 
 ![](../../.gitbook/assets/accessrefinery5.png)
 

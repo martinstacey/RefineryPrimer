@@ -4,13 +4,13 @@
 
 Professional consultants are available to help get you up and running with generative workflows. Professional consultants that have been vetted by Autodesk can be found at the [Service Marketplace.](https://servicesmarketplace.autodesk.com/providers?search=&search_within=&services_speciality%5B6406%5D=6406&ci=All&sort_by=search_api_relevance&utm_source=dotcom&utm_medium=referral&utm_content=aec-gen-design)
 
-Or hire help directly to your team. Here is an idea of what to look for:
+If you wish to hire help directly for your team, below is an idea of what to look for:
 
 ## Job Description for Generative Design Help
 
 ### About this Opportunity
 
-As a Computational Designer, you'll be responsible for developing and encoding our firm’s design philosophies using digital design and scripting tools.
+As a Generative Designer, you'll be responsible for developing and encoding our firm’s design philosophies using digital design and scripting tools.
 
 ### What You'll Do
 
@@ -21,6 +21,7 @@ As a Computational Designer, you'll be responsible for developing and encoding o
 * Develop models that integrate simulation and optimization components
 * Research design strategies and implement research into scripts
 * Create 2D and 3D visualizations of data and designs
+* Understand how to develop evaluation algorithms
 
 ### Sound Like You?
 
