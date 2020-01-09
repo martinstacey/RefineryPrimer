@@ -73,7 +73,7 @@
     * [Office Layout](04-sample-workflows/04-02_architectural-workflows/04-02-03_office-layout.md)
     * [Parking Layout](04-sample-workflows/04-02_architectural-workflows/parking-layout.md)
     * [Maximize Window Views](04-sample-workflows/04-02_architectural-workflows/maximize-window-views.md)
-    * [Randomize object location](04-sample-workflows/04-02_architectural-workflows/randomize-object-location.md)
+    * [Entourage Placement Exploration](04-sample-workflows/04-02_architectural-workflows/randomize-object-location.md)
   * [MEP Workflows](04-sample-workflows/04-03_mep-workflows/README.md)
     * [Distributing Spotlights in an Office Space](04-sample-workflows/04-03_mep-workflows/04-03-01_distributing-lights-in-an-office-space.md)
     * [Lighting Layout Generator](04-sample-workflows/04-03_mep-workflows/lighting-layout-generator.md)
