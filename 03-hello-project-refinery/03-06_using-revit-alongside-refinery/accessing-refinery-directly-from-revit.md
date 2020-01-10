@@ -20,7 +20,7 @@ Follow the instructions for each section of the dialog. If a Revit input is requ
 
 ![](../../.gitbook/assets/accessrefinery4%20%281%29.png)
 
-Once all inputs are satisfied, click Generate. This will initiate Refinery and present you with the same window you will be familiar with from opening running studies from the Dynamo environment. From here you can explore all the different options through the available charts and tables. If you select a design, you can then export your results to Revit by clicking on the `Create Revit Elements` button. 
+Once all inputs are satisfied, click Generate. This will initiate Refinery and present you with the same window you will be familiar with `Create Study` from the Dynamo environment. From here you can explore all the different options through the available charts and tables. If you select a design, you can then export your results to Revit by clicking on the `Create Revit Elements` button. 
 
 ![](../../.gitbook/assets/accessrefinery5.png)
 

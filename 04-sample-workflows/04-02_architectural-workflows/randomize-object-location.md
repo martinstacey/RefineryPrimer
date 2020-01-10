@@ -4,9 +4,9 @@
 
 ![](../../.gitbook/assets/workflowrandom2.gif)
 
-This graph will generate a series of scenes with different entourage elements. Entourage elements are placed in clusters. You input a space and entourage elements, you control different cluster parameters, and review metrics related to your view.
+This graph will generate a series of scenes with different entourage elements. Entourage elements are placed in clusters that imitate the organic positioning of random elements within a space. You start by selecting a space/room, you select entourage elements, \(people, trees, etc\) then set different cluster constrains, and you finally review metrics related to how this elements relate to your view.
 
-You would be able to save time by quickly scaning throught scenes and updating entourage elements, and avoid loosing time placing elements individually.
+This workflow is intended to be used with `randomize` so no optimization criteria is needed, but some outputs are given to get a better perception of some of the atributes of each scene.  With this workflow you would be able to save time by quickly scaning throught scenes and updating entourage elements, and avoid loosing time placing each element individually.
 
 _The sample files for this example can be found in the  `PROVIDE LINK` folder in the Github repository._ 
 
@@ -16,7 +16,7 @@ _The sample files for this example can be found in the  `PROVIDE LINK` folder in
 | :--- | :--- |
 | Room | Select a room to place entourage |
 | Families for Entourage | Select one family instance for each element you want to include in your entourage |
-| 3d View | Select a 3d view that you would be working. |
+| 3d View | Select a 3d view/Perspective you would be working |
 
 ## Constrains
 
@@ -40,13 +40,13 @@ _The sample files for this example can be found in the  `PROVIDE LINK` folder in
 
 The script is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description. The name indicates the type of function that is being run and the description explains in more detail the process. 
 
-The script would start by extracting the view position and direction. Every time you change the view you would also need to change the boolean node next to it to keep it up to date. It would store this location as your point of interest and metrics would relate to this location. The script would also extract the surface of a room. This room would be used to place the entourage elements. The script would continue to create a series of clusters of elements given the constrains that you give it. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics would be calculated relating  the new family instances created and the point of interest. 
+The script would start by extracting the view position and direction. Every time you change the view you would also need to change the boolean node next to it to keep it up to date. It would store this location as your point of interest and metrics would relate to this location. The script would also extract the surface of a room. This room would be used to place the entourage elements. Then, it would continue to create a series of clusters of elements. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics would be calculated relating the new family instances and the point of interest. 
 
 ## Visualization
 
-![](../../.gitbook/assets/workflowrandom3.gif)
+Refinery would display the surface of the room selected, the point of interest and the entourage elements as lines. We suggest you combine this with the 3d view used so that you get results as you export them to Revit.
 
-Refinery would display the surface of the room selected, the point of interest and the entourage elements as lines. We suggest you combine this with the 3d view used so that you get results as you export them to dynamo.
+![](../../.gitbook/assets/workflowrandom3.gif)
 
 ## Evaluation
 
@@ -54,7 +54,7 @@ There is no optimization but some metrics give you information of the scenes cre
 
 | Name | Description |
 | :--- | :--- |
-| View obstructions | The total area occupied by the amenity spaces |
+| View obstructions | The size and proximity of elements to your camera. |
 | Distance to camera | Added distance of entourage elements to the view camera |
 | Overall spacing | How far apart are elemets to each other |
 
