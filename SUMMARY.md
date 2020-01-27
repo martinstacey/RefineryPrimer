@@ -75,6 +75,7 @@
     * [Maximize Window Views](04-sample-workflows/04-02_architectural-workflows/maximize-window-views.md)
     * [Entourage Placement Exploration](04-sample-workflows/04-02_architectural-workflows/randomize-object-location.md)
   * [MEP Workflows](04-sample-workflows/04-03_mep-workflows/README.md)
+    * [Distribute Objects in a Room](04-sample-workflows/04-03_mep-workflows/distribute-objects-in-a-room.md)
     * [Distributing Spotlights in an Office Space](04-sample-workflows/04-03_mep-workflows/04-03-01_distributing-lights-in-an-office-space.md)
     * [Lighting Layout Generator](04-sample-workflows/04-03_mep-workflows/lighting-layout-generator.md)
   * [Structural Workflows](04-sample-workflows/04-04_structural-workflows.md)
