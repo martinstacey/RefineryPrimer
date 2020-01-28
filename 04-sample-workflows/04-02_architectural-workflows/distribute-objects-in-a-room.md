@@ -31,29 +31,27 @@ This graph uses Refinery on optimize mode to place objects along a room using gr
 
 The graph is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description, where the name indicates the type of function that is being run and the description explains in more detail the process. 
 
-This graph will input a model element, a room and variables for placing a grid. The rooms surface and perimeter are used to calculate further metrics. Next, random values are given for the wall distance from the beggining of the grid, the grid X axis separation and Y axis separation. This values are used to create points distributed along the room. The graph then determines how each objects areas of influence overlap to each other and to the perimeter of the room.
+This graph will input a model element, a room and variables for placing a grid. The rooms surface and perimeter are used to calculate further metrics. Next, random values are given for the wall distance from the beginning of the grid, the grid X axis separation and Y axis separation. These values are used to create points distributed along the room. The graph then determines how each objects areas of influence overlap to each other and to the perimeter of the room.
 
-Using optimization the number of objects and the objects coverage is maximized while the object overlap and overlap to perimeter is minimized. 
+Using optimization, the number of objects and the objects coverage is maximized while the object overlap and overlap to perimeter is minimized. 
 
 ## Visualization
 
-
-
-When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. To ensure the geometry displayed shows the final geometric output, all unnecessary geometry has been switched off. Any nodes with the preview switched off will not display the output visually in Refinery. In this case, only the obstructing geometry, light sources and final coloured analysis points are visible. The analysis points are coloured from blue \(less illuminated\) to red \(more illuminated\).
+Refinery will display various grid configurations. In this example you can see results in the x and y axis according to their X and Y seed. Each result is showed as a point, the point’s size is determined by the number of objects of each result and the color is determined by their distance of objects to the perimeter.
 
 ## Evaluators
 
 | Name | Description |
 | :--- | :--- |
-| Light sources | Amount of light sources/fixtures resulting on the room |
-| Lit spots | Amount of overall illuminated analysis points |
-| Overlit spots | Amount of overlit analysis points |
-
-## Benefits of Using Refinery
-
-Without the aid of refinery the designer would usually place light sources evenly distributing them along spaces to later perform lighting calculations. In regular shaped rooms this method produces good results but things can get complicated if rooms have irregular shapes that may result in blind spots. Refinery using an optimization method can speed up how light sources are distributed.
+| Percent Coverage \(%\) | Percent of room covered by objects radius of influence |
+| Area Coverage \(m2\) | Total area covered by objects radius of influence  |
+| Number of Objects \(u\) | The number of objects placed in room |
+| Total Object Overlap \(m2\) | Added overlap of both internal and external objects |
+| Internal Object Overlap \(m2\) | Internal object overlap |
 
 ## Results
 
-Once Refinery has completed, the results can be explored through the available tables and graphs. The image below shows an example output from an optimized study based on 10 generations with a population of 20. The outputs were defined as minimized for both _`underlit spots`_ and _`overlit spots`_
+![](../../.gitbook/assets/screenshot-2020-01-28-14.11.54.png)
+
+Once Refinery has completed, the results can be explored through the available tables and graphs. The image below shows an example output from an optimized study based on 4 generations with a population of 20.
 
