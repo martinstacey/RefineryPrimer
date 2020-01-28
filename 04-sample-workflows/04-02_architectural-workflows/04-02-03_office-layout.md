@@ -1,4 +1,4 @@
-# Office Layout
+# Office Layout Generator
 
 ![](../../.gitbook/assets/workflow31.gif)
 
