@@ -35,10 +35,6 @@ This graph will input a model element, a room and variables for placing a grid. 
 
 Using optimization, the number of objects and the objects coverage is maximized while the object overlap and overlap to perimeter is minimized. 
 
-## Visualization
-
-Refinery will display various grid configurations. In this example you can see results in the x and y axis according to their X and Y seed. Each result is showed as a point, the point’s size is determined by the number of objects of each result and the color is determined by their distance of objects to the perimeter.
-
 ## Evaluators
 
 | Name | Description |
@@ -51,7 +47,11 @@ Refinery will display various grid configurations. In this example you can see r
 
 ## Results
 
-![](../../.gitbook/assets/screenshot-2020-01-28-14.11.54.png)
+Refinery will display various grid configurations. In this example you can see results in the x and y axis according to their X and Y seed. Each result is showed as a point, the point’s size is determined by the number of objects of each result and the color is determined by their distance of objects to the perimeter.
+
+![](../../.gitbook/assets/screenshot-2020-01-29-01.21.40.png)
+
+In the image shown above you can see results given by Refinery for a study with a population of 20 designs after 10 generations. To enhance the visualization designs with more number of objects are depicted as bigger points. The color and y axis show the 
 
 Once Refinery has completed, the results can be explored through the available tables and graphs. The image below shows an example output from an optimized study based on 4 generations with a population of 20.
 
