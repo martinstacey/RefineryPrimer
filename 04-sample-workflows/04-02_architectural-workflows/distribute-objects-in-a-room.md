@@ -1,6 +1,6 @@
-# Distribute Objects in a Room
+# Grid Object Placement in a Room
 
-![](../../.gitbook/assets/ezgif-6-82fd0e4bc950.gif)
+![](../../.gitbook/assets/ezgif-7-f50b3453c17c.gif)
 
 ## Description
 

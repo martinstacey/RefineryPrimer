@@ -71,7 +71,7 @@
     * [Building  Mass Generator](04-sample-workflows/04-02_architectural-workflows/04-02-01_building-mass-generator.md)
     * [Building Positioning based on Solar Analysis](04-sample-workflows/04-02_architectural-workflows/04-02-02_building-positioning-based-on-solar-analysis.md)
     * [Office Layout Generator](04-sample-workflows/04-02_architectural-workflows/04-02-03_office-layout.md)
-    * [Distribute Objects in a Room](04-sample-workflows/04-02_architectural-workflows/distribute-objects-in-a-room.md)
+    * [Grid Object Placement in a Room](04-sample-workflows/04-02_architectural-workflows/distribute-objects-in-a-room.md)
     * [Parking Layout Generator](04-sample-workflows/04-02_architectural-workflows/parking-layout.md)
     * [Maximize Window Views](04-sample-workflows/04-02_architectural-workflows/maximize-window-views.md)
     * [Entourage Placement Exploration](04-sample-workflows/04-02_architectural-workflows/randomize-object-location.md)
