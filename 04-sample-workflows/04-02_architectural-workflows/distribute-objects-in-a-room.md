@@ -4,7 +4,7 @@
 
 ## Description
 
-This graph uses Refinery on optimize mode to place objects along a room using grid formation. This graph will compare how the percent of coverage, the number of objects placed, and the overlap in area of influence perform as various grid configurations are tried through Refinery. This graph will help you automize the placement of repeating objects and although this is a simplified version of object placement you are encouraged to add personalized criteria that relates to your practice. All sample files for this example can be found in the \[PROVIDE LINK\] folder in the GitHub repository.
+This graph uses Refinery on optimize mode to place objects along a room using grid formation. This graph will compare how the percent of coverage, the number of objects placed, and the overlap in area of influence perform as various grid configurations are tried through Refinery. This graph will help you automatize the placement of repeating objects and although this is a simplified version of object placement you are encouraged to add personalized criteria that relates to your practice. All sample files for this example can be found in the \[PROVIDE LINK\] folder in the GitHub repository.
 
 ## Static inputs
 
