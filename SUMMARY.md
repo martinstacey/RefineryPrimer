@@ -80,7 +80,7 @@
     * [Lighting Layout Generator](04-sample-workflows/04-03_mep-workflows/lighting-layout-generator.md)
   * [Structural Workflows](04-sample-workflows/04-04_structural-workflows.md)
   * [BIM Workflows](04-sample-workflows/bim-workflows/README.md)
-    * [Views on Sheets](04-sample-workflows/bim-workflows/views-on-sheets.md)
+    * [Placement of views on sheets](04-sample-workflows/bim-workflows/views-on-sheets.md)
   * [Community Examples](04-sample-workflows/04-05_community-examples.md)
 * [Appendix](99-appendix/README.md)
   * [Glossary](99-appendix/99-01_glossary.md)

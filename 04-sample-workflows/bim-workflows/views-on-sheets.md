@@ -1,4 +1,4 @@
-# Views on Sheets
+# Placement of views on sheets
 
 ![](../../.gitbook/assets/cropview.gif)
 
