@@ -4,9 +4,9 @@
 
 ![](../../.gitbook/assets/workflowrandom2.gif)
 
-This graph will generate a series of scenes with different entourage elements. Entourage elements are placed in clusters that imitate the organic positioning of random elements within a space. You start by selecting a space/room, you select entourage elements, \(people, trees, etc\) then set different cluster constrains, and you finally review metrics related to how this elements relate to your view.
+This graph will generate a series of scenes with different entourage elements. Entourage elements are placed in clusters that imitate the organic positioning of random elements within a space. You start by selecting a space/room, you select entourage elements, \(people, trees, etc\) then set different cluster constraints, and you finally review metrics related to how these elements relate to your view.
 
-This workflow is intended to be used with `randomize` so no optimization criteria is needed, but some outputs are given to get a better perception of some of the atributes of each scene.  With this workflow you would be able to save time by quickly scaning throught scenes and updating entourage elements, and avoid loosing time placing each element individually.
+This workflow is intended to be used with `randomize` so no optimization criteria is needed, but some outputs are given to achieve a better perception of some of the attributes of each scene. With this workflow you are able to save time by quickly generating multiple scenes without the need for manually placing each element individually.
 
 _The sample files for this example can be found in the  `PROVIDE LINK` folder in the Github repository._ 
 
@@ -14,11 +14,11 @@ _The sample files for this example can be found in the  `PROVIDE LINK` folder in
 
 | Name | Description |
 | :--- | :--- |
-| Room | Select a room to place entourage |
+| Room | Select a room to place the entourage |
 | Families for Entourage | Select one family instance for each element you want to include in your entourage |
-| 3d View | Select a 3d view/Perspective you would be working |
+| 3d View | Select a 3d view/Perspective you would be working in |
 
-## Constrains
+## Constraints
 
 | Name | Description |
 | :--- | :--- |
@@ -40,7 +40,7 @@ _The sample files for this example can be found in the  `PROVIDE LINK` folder in
 
 The script is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description. The name indicates the type of function that is being run and the description explains in more detail the process. 
 
-The script would start by extracting the view position and direction. Every time you change the view you would also need to change the boolean node next to it to keep it up to date. It would store this location as your point of interest and metrics would relate to this location. The script would also extract the surface of a room. This room would be used to place the entourage elements. Then, it would continue to create a series of clusters of elements. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics would be calculated relating the new family instances and the point of interest. 
+The script starts by extracting the view position and direction. Every time you change the view you would also need to change the boolean node next to it to keep it up to date. It would store this location as your point of interest and metrics would relate to this location. The script would also extract the surface of a room. This room would be used to place the entourage elements. Then, it would continue to create a series of clusters of elements. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics would be calculated relating the new family instances and the point of interest. 
 
 ## Visualization
 
