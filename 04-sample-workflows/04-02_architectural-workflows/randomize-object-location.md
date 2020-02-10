@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/workflowrandom2.gif)
 
-This graph will generate a series of scenes with different entourage elements. Entourage elements are placed in clusters that imitate the organic positioning of random elements within a space. You start by selecting a space/room, you select entourage elements, \(people, trees, etc\) then set different cluster constraints, and you finally review metrics related to how these elements relate to your view.
+This graph will generate a series of scenes with different entourage elements. Entourage elements are placed in clusters that imitate the organic positioning of random elements within a space. You start by selecting a space/room, you select entourage elements, \(people, trees, etc\) then set different cluster constraints, and you finally review metrics related to how these elements relate to each other.
 
 This workflow is intended to be used with `randomize` so no optimization criteria is needed, but some outputs are given to achieve a better perception of some of the attributes of each scene. With this workflow you are able to save time by quickly generating multiple scenes without the need for manually placing each element individually.
 
@@ -40,11 +40,11 @@ _The sample files for this example can be found in the  `PROVIDE LINK` folder in
 
 The script is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description. The name indicates the type of function that is being run and the description explains in more detail the process. 
 
-The script starts by extracting the view position and direction. Every time you change the view you would also need to change the boolean node next to it to keep it up to date. It would store this location as your point of interest and metrics would relate to this location. The script would also extract the surface of a room. This room would be used to place the entourage elements. Then, it would continue to create a series of clusters of elements. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics would be calculated relating the new family instances and the point of interest. 
+The script would start by extracting the surface of a room. This room would be used to place the entourage elements. Then, it would continue to create a series of clusters of elements. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics will be calculated relating the new family instances and the point of interest. 
 
 ## Visualization
 
-Refinery would display the surface of the room selected, the point of interest and the entourage elements as lines. We suggest you combine this with the 3d view used so that you get results as you export them to Revit.
+Refinery will display the surface of the room selected, the point of interest and the entourage elements as lines. We suggest you combine this with the 3d view used so that you get results as you export them to Revit.
 
 ![](../../.gitbook/assets/workflowrandom3.gif)
 
@@ -55,7 +55,7 @@ There is no optimization but some metrics give you information of the scenes cre
 | Name | Description |
 | :--- | :--- |
 | View obstructions | The size and proximity of elements to your camera. |
-| Distance to camera | Added distance of entourage elements to the view camera |
+| Number of elements | Number of elements created in the scene. |
 | Overall spacing | How far apart are elemets to each other |
 
 ## Results
@@ -63,7 +63,7 @@ There is no optimization but some metrics give you information of the scenes cre
 Once Refinery has completed, the results can be explored through the available tables and graphs   
  The image below shows an example output from a randomized study based on 40 solutions.
 
-![](../../.gitbook/assets/workflowrandom4.png)
+![](../../.gitbook/assets/screenshot-2020-02-10-10.56.23.png)
 
 ## A More Organic Random Using Gaussian Distribution
 
