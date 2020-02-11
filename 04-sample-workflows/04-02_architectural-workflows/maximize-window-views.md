@@ -1,2 +1,0 @@
-# Maximize Window Views
-

@@ -1,2 +1,0 @@
-# Parking Layout Generator
-
