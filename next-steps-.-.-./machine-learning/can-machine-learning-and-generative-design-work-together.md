@@ -6,9 +6,11 @@ If we have complex relations between how our inputs affect our desired optimisat
 
 ![](../../.gitbook/assets/mlandgd.png)
 
-### Examples of Machine Learning in Architecture
+## Examples of Machine Learning in Architecture
 
-In this example by Thedore Galanos _\(ask permission or get other example\)_  solar radiation is predicted by examining solar radiation of previous studies. By this method real examples of buildings are used to create a model of solar radiation that may be used in non-contracted buildings.
+### Predicting Solar Radiation 
+
+In the following example, made by Thedore Galanos and Angelos Chronis from [CIT Lab](https://cities.ait.ac.at/site/), solar radiation is predicted by examining solar radiation of previous studies. By this method real examples of buildings are used to create a model of solar radiation that may be used in non-contracted buildings.
 
 ![](../../.gitbook/assets/ac_cil.png)
 

@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/ml.png)
 
-Machine learning has become a popular area of interest in the last few years. From virtual assistants to financial data interpretation, machine learning has become an important tool in creating models to explain data behaviour. Rather than trying to define ML here, we suggest that you visit the following sites to get more in depth information of the subject. For the purposes of this chapter we will look we assume you have a basic understanding of machine learning and will instead focus on the key aspects that relate to generative design.
+Machine learning has become a popular area of interest in the last few years. From virtual assistants to financial data interpretation, machine learning has become an important tool in creating models to explain data behaviour. Rather than trying to define ML here, we suggest that you visit the following sites to get more in depth information of the subject. For the purposes of this chapter, we will assume you have a basic understanding of machine learning and will instead focus on the key aspects that relate to generative design.
 
 ### **Articles**
 
