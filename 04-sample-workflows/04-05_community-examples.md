@@ -22,7 +22,7 @@ This tittle block will help the user identify all the requirements needed to run
 
 Organizing nodes into groups will help the user understand how the workflow is structured. Groups should have comments that indicate the general purpose of the group of nodes.
 
-
+![](../.gitbook/assets/community3.png)
 
 ### Follow Color Guidelines
 
@@ -30,11 +30,21 @@ We use a consistent color pallet through out our workflows. Don't forget to foll
 
 ####  Inputs - Pink
 
+![](../.gitbook/assets/comunity4.png)
+
 #### Generators - Green
+
+![](../.gitbook/assets/comunity5.png)
 
 #### Display - Blue
 
+![](../.gitbook/assets/comunity6.png)
+
+#### Metrics - Orange
+
+![](../.gitbook/assets/comunity7.png)
+
 #### Remember/Gate - Purple 
 
-
+![](../.gitbook/assets/comunity8.png)
 
