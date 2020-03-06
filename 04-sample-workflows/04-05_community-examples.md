@@ -6,3 +6,35 @@ In the future we want the community to submit their generative design case studi
 
 The submitted case studies should show the process from start to finish and highlight the benefits of working with generative design.
 
+## Guidelines for Submitting Sample Files
+
+To ensure that the sample files presented in this page are easy to understand, we recommend you to follow these general guidelines:
+
+### Create a Tittle Block
+
+This tittle block will help the user identify all the requirements needed to run the workflow \(Revit version, required dynamo packages, etc.\). The tittle block will also display observations that help explain what the workflow does, and how is it useful.  
+
+> You can copy a panel from an existing document and change the information in it so it suits your workflow
+
+![](../.gitbook/assets/community2.png)
+
+### Organize Nodes Into Groups
+
+Organizing nodes into groups will help the user understand how the workflow is structured. Groups should have comments that indicate the general purpose of the group of nodes.
+
+
+
+### Follow Color Guidelines
+
+We use a consistent color pallet through out our workflows. Don't forget to follow this color pallet in your workflow:
+
+####  Inputs - Pink
+
+#### Generators - Green
+
+#### Display - Blue
+
+#### Remember/Gate - Purple 
+
+
+
