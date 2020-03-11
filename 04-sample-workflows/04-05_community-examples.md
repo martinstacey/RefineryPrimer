@@ -6,6 +6,12 @@ In the future we want the community to submit their generative design case studi
 
 The submitted case studies should show the process from start to finish and highlight the benefits of working with generative design.
 
+## Guidelines for Submitting Changes on the Primer
+
+If you have any suggestions for the primer, we will gladly review them! To do so, please follow the guidelines in the following link:
+
+[https://github.com/DynamoDS/RefineryPrimer/blob/master/CONTRIBUTING.md](https://github.com/DynamoDS/RefineryPrimer/blob/master/CONTRIBUTING.md)
+
 ## Guidelines for Submitting Sample Files
 
 To ensure that the sample files presented in this page are easy to understand, we recommend you to follow these general guidelines:
