@@ -10,9 +10,9 @@ The submitted case studies should show the process from start to finish and high
 
 To ensure that the sample files presented in this page are easy to understand, we recommend you to follow these general guidelines:
 
-### Create a Tittle Block
+### Create a Title Block
 
-This tittle block will help the user identify all the requirements needed to run the workflow \(Revit version, required dynamo packages, etc.\). The tittle block will also display observations that help explain what the workflow does, and how is it useful.  
+This title block will help the user identify all the requirements needed to run the workflow \(Revit version, required dynamo packages, etc.\). The title block will also display observations that help explain what the workflow does, and how is it useful.  
 
 > You can copy a panel from an existing document and change the information in it so it suits your workflow
 
