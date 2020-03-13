@@ -14,7 +14,7 @@ If you have any suggestions for the primer, we will gladly review them! To do so
 
 ## Guidelines for Submitting Sample Files
 
-To ensure that the sample files presented in this page are easy to understand, we recommend you to follow these general guidelines:
+To ensure that the sample files presented in this page are easy to understand, we recommend you follow these general guidelines:
 
 ### Create a Title Block
 
