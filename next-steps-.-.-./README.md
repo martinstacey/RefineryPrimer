@@ -1,2 +1,2 @@
-# Next Steps . . .
+# Next Steps
 

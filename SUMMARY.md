@@ -75,7 +75,7 @@
   * [How to Convince Senior Stakeholders of Using Generative Design?](generative-design-in-your-office/how-to-convince-senior-stakeholders-of-using-gd.md)
   * [The Role of a Generative Designer](generative-design-in-your-office/the-role-of-a-generative-designer.md)
   * [Hiring a Generative Designer](generative-design-in-your-office/99-03_need-professional-help.md)
-* [Next Steps . . .](next-steps-.-.-./README.md)
+* [Next Steps](next-steps-.-.-./README.md)
   * [Machine Learning](next-steps-.-.-./machine-learning/README.md)
     * [What is Machine Learning?](next-steps-.-.-./machine-learning/what-is-machine-learning.md)
     * [Is Generative Design Machine Learning?](next-steps-.-.-./machine-learning/is-generative-design-machine-learning.md)
