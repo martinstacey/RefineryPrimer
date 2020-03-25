@@ -12,8 +12,11 @@ If you have an example please create a Pull Request in GitHub containing your wo
 
 #### **1. Upload files:** 
 
-* Place all related files in the folder location: `04-sample-worflows/04-06_Community-Examples/04-06-00_Example_Files`
-* All files should be named with the following format: Last name first 3 initials + short descriptive name. Example:  `RAH_FloorsFromSolarAnalysis.dyn`. Make sure your file runs on last version of Refinery and Revit. 
+* Place all related files in a zip folder and upload it as a release. 
+  * Visit the following website for more information into how to upload a release: [https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository)
+* The zip file should be named using the following format: 04-06\_ + last name first three initials + short descriptive name. Example: `04-06_RAH_FloorsFromSolarAnalysis.zip`
+* All files should be named using the same format. Example:  `RAH_FloorsFromSolarAnalysis.dyn`.
+* Make sure your file runs on last version of Refinery and Revit. 
 * You should include: 
   * Dynamo file
   * Revit file in last available version.
