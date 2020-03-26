@@ -10,7 +10,7 @@
 
 **Description:** Use site context and a zoning boundary created in Revit to create a generative building form with maximum indoor daylight and PV potential analysis as the key focus. 
 
-**Get Files:** [Dynamo ](../../)+ [Revit ](../../)+ [Video ](../../)+[ More Information](../../)
+[Get Files](../../) 
 
 
 

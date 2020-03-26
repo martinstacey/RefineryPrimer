@@ -12,25 +12,29 @@ If you have an example please create a Pull Request in GitHub containing your wo
 
 #### **1. Upload files:** 
 
-* Place all related files in a zip folder and upload it as a release. 
-  * Visit the following website for more information into how to upload a release: [https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository)
-* The zip file should be named using the following format: 04-06\_ + last name first three initials + short descriptive name. Example: `04-06_RAH_FloorsFromSolarAnalysis.zip`
-* All files should be named using the same format. Example:  `RAH_FloorsFromSolarAnalysis.dyn`.
-* Make sure your file runs on last version of Refinery and Revit. 
+* Place all necessary files for your workflow in a zip file, this zip file should be named using the following format: Author's last name \(Uppercase, 3 first letters\) + Short descriptive name of workflow Example:`RAH_FloorsFromSolarAnalysis.zip`
+*  All files should be named using the same format. Example:  `RAH_FloorsFromSolarAnalysis.dyn`.
+* Create a pull request by adding this zip file to the following folder:`04-sample-worflows/04-06_Community-Examples/04-06-00_Community_Examples`
+* Make sure your file runs on the last version of Refinery and Revit. 
 * You should include: 
   * Dynamo file
-  * Revit file in last available version.
+  * Brief Description
+  * Revit file in last available version \(optional\)
   * Video tutorial \(optional\)
   * In-depth description in PDF format \(optional\)
 
-#### 2. Create Description
+#### 2. Create Brief Description
 
-* Write your workflow description in the following folder location: `04-sample-worflows/04-06_Community-Examples/04-06-00_List_Of_Examples.md`
-* The example description should include: 
+* In the zip file described above create a folder titled: `Description`
+* Add a brief description and an image to this folder.
+* The image should be:
+  * Format: `.jpg` format
+  * Size: Width 720 px Height 300 px
+* The brief description should include: 
   * Tittle of workflow
   * Author of script
   * Required dynamo packages to run script
-  * Brief description of how the workflow works and why it is useful.
+  * Description of how the workflow works and why it is useful.
   * Descriptive Image of workflow \(Optional\)
   * Links to files uploaded in the `Example_Files` folder.
 * Check the first workflow example \(High Performance Building Design Based on Daylight Analysis\) as a reference on how to upload files. 

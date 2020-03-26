@@ -8,4 +8,5 @@ This section will explore a series of workflows related to architecture.
 * [Building positioning based on solar analysis](04-02-02_building-positioning-based-on-solar-analysis.md)  - [get files](https://github.com/martinstacey/RefineryPrimer/tree/ContentBranch/04-sample-workflows/04-00_sample_files/04-00-02_architecture/02-02_Building-positioning)
 * [Office layout](04-02-03_office-layout.md)  - [get files](https://github.com/martinstacey/RefineryPrimer/tree/ContentBranch/04-sample-workflows/04-00_sample_files/04-00-02_architecture/02-03_Architecture)
 * Grid object placement - \[SHARE LINK\]
+* Entourage Placement - \[SHARE LINK\]
 
