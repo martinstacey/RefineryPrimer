@@ -1,9 +1,10 @@
 # Current Limitations
 
-The *`Data.Remember`* node has the following known limitations:
+Known limitations of the _`Data.Remember`_ node:
 
-* It currently only works with the following data types:
+* currently only works with the following data types:
   * strings
   * numbers
-  * raw dynamo geometry (points, lines, surfaces, solids etc)
-* In version 0.4.26 of Generative Design the node does not  yet support nested lists
+  * raw dynamo geometry \(points, lines, surfaces, solids etc\)
+* with version 0.4.26 of Refinery the node does not  yet support nested lists
+

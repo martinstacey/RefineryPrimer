@@ -1,6 +1,6 @@
-# Getting Started With Generative Design for Revit and Dynamo
+# Installing Project Refinery
 
-Generative Design is currently available as a Beta release, as of March 2019. In order to use Generative Design, you need to sign up to the Generative Design community, using your Autodesk credentials at the following website:
+Project Refinery is currently available as a Beta release, as of March 2019. In order to use Refinery, you need to sign up to the Refinery community, using your Autodesk credentials at the following website:
 
 [https://www.autodesk.com/solutions/refinery-beta](https://www.autodesk.com/solutions/refinery-beta)
 
@@ -8,29 +8,27 @@ Generative Design is currently available as a Beta release, as of March 2019. In
 
 ![](../.gitbook/assets/install2.png)
 
-## The Generative Design Community
+## The Refinery Community
 
-After signing up for the Beta you will be presented with an overview of the Generative Design community. From here you can do the following:
+After signing up for the Beta you will be presented with an overview of the Refinery community. From here you can:
 
-* Access detailed instructions on getting started and installation.
-* Access demo/sample files.
-* Access further learning resources.
-* Provide feedback and ask questions to the AEC Generative Design team.
-* Discuss and collaborate with fellow Generative Design community members.
+* access detailed instructions on getting started & installation
+* access demo/sample files
+* access further learning resources
+* provide feedback and ask questions to the Refinery development team
+* discuss & collaborate with fellow Refinery community members
 
-Any new releases of Generative Design will be available to download and install from this location too.
+Any new releases of Refinery will be available to download and install from this location too.
 
 ![](../.gitbook/assets/install3.png)
 
-_Above: the Generative Design community home page_
+_Above: the Refinery community home page_
 
-<br/>
+## Installing Refinery
 
-## Installing Generative Design for Revit and Dynamo
-
-To install the latest version of Generative Design, go to the Getting Started section, where you can see the latest Pre-Requisites needed to use Generative Design. After making sure you satisfy these initial requirements, please follow the step-by-step guide in the install section.
+To install the latest version of Refinery, go to the Getting Started section, where you can see the latest Pre-Requisites needed to use Refinery. After making sure you satisfy these initial requirements, please follow the step-by-step guide in the install section.
 
 ![](../.gitbook/assets/install4.png)
 
-_Above: the Generative Design beta community Getting Started instructions page_
+_Above: the Refinery beta community Getting Started instructions page_
 

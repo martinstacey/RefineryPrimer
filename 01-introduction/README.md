@@ -1,6 +1,6 @@
 # Introduction to Generative Design
 
-In this chapter, we’ll look at key concepts that are essential to understanding generative design and how Generative Design for Revit and Dynamo works.
+In this chapter, we’ll look at key concepts that are essential to understanding generative design and how Project Refinery works.
 
 ![](../.gitbook/assets/intro.png)
 
@@ -8,7 +8,7 @@ We will look at the following topics:
 
 * the fundamental concepts needed to understand generative design
 * a definition of generative design in the context of AEC
-* an introduction to Generative Design for Revit and Dynamo
+* an introduction to Refinery
 * examples of using generative design to solve design problems
 * related concepts
 * common approaches used
