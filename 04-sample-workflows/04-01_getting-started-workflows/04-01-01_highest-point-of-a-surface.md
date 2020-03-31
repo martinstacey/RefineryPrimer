@@ -1,6 +1,8 @@
 # Highest Point of a Surface
 
-The _`01-01_EvaluateSurface.dyn`_ graph in the Refinery examples, uses a single objective optimization approach to find the highest Z point on a sinuous surface. The objective of the graph is to get the orange sphere to the highest peak of the surface. [get files](https://github.com/martinstacey/RefineryPrimer/tree/ContentBranch/04-sample-workflows/04-00_sample_files/04-00-01_gettingstarted)
+The *`01-01_EvaluateSurface.dyn`* graph in the Generative Design examples, uses a single objective optimization approach to find the highest Z point on a sinuous surface. The objective of the graph is to get the orange sphere to the highest peak of the surface. 
+
+[Download Dynamo file](https://github.com/DynamoDS/RefineryPrimer/releases/download/samples-v1/04-01-01_Highest-point-of-a-surface.dyn)
 
 ![](../../.gitbook/assets/applychanges1.png)
 
@@ -8,9 +10,19 @@ U and V values are used to move the sphere across the surface. Since these value
 
 ![](../../.gitbook/assets/applychanges2.png)
 
-In order to know when the sphere is at the highest peak, a measure of the Z-value is made every time the sphere moves, this represents the _`fitness value`_.
+U and V values are used to move the sphere across the surface. Since these values are the driving inputs, they need to be marked as *`IsInput`* for Generative Design to pick them up.
 
-When running this graph in Refinery:
+<br/>
+
+<p align="center">
+<img src="../../assets/hello/applychanges2.png" style="width:40%;"/>
+</p>
+
+<br/>
+
+In order to know when the sphere is at the highest peak, a measure of the Z-value is made every time the sphere moves, this represents the *`fitness value`*.
+
+When running this graph in Generative Design follow these steps:
 
 * Use the _`Optimize`_ generation method
 * Under Inputs make sure that all inputs are checked
@@ -23,3 +35,4 @@ When running this graph in Refinery:
 
 As this is a Single Optimization problem, Refinery returns only one result which is the global optimum or in this case the highest peak on the surface.
 
+As this is a Single Optimization problem, Generative Design returns only one result which is the global optimum or in this case the highest peak on the surface.

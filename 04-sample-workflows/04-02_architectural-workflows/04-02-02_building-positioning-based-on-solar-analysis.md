@@ -6,9 +6,9 @@
 
 This graph will move and rotate the position of a selected mass within a site boundary to minimize or maximize the solar incidence by Area ratio. This workflow relies heavily on the Solar Analysis node from Dynamo which makes external calls to a web service. As a result, each iteration can take a while to run while the solution runs the analysis. For the options where the movement or rotation causes the building to fall outside of the site boundary, the results are heavily penalized, to ensure the analysis doesn't run.
 
-_The sample files for this example can be found in the_ [_`02-02_building-positioning`_](https://github.com/martinstacey/RefineryPrimer/tree/ContentBranch/04-sample-workflows/04-00_sample_files/04-00-02_architecture/02-02_Building-positioning) _folder in the Github repository_
+[Download workflow files](https://github.com/DynamoDS/RefineryPrimer/releases/download/samples-v1/04-02-02_Building-positioning.zip)
 
-## Static inputs
+## Static Inputs
 
 | Name | Input Description |
 | :--- | :--- |
@@ -19,7 +19,7 @@ _The sample files for this example can be found in the_ [_`02-02_building-positi
 | Floor height | Floor to floor height used on the solar analysis |
 | Location coordinates | The real-world coordinates used for the solar analysis |
 
-## Variable inputs
+## Variable Inputs
 
 | Name | Description |
 | :--- | :--- |
@@ -35,7 +35,7 @@ The graph uses the Revit mass/building and extracts the geometry in Dynamo. All 
 
 ## Visualization
 
-When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. To ensure the geometry displayed shows the final geometric output, all unnecessary geometry has been switched off. Any nodes with the preview switched off will not display the output visually in Refinery. In this case, only the main building and the resulting solar analysis will be visible. The solar analysis is represented on the external surfaces of the building as a colored grid of points. These points are colored from yellow to red to indicate a low amount of incidence and a amount of incidence respectively.
+When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. To ensure the geometry displayed shows the final geometric output, all unnecessary geometry has been switched off. Any nodes with the preview switched off will not display the output visually in Generative Design. In this case, only the main building and the resulting solar analysis will be visible. The solar analysis is represented on the external surfaces of the building as a colored grid of points. These points are colored from yellow to red to indicate a low amount of incidence and a amount of incidence respectively. 
 
 ## Evaluators
 
@@ -45,13 +45,14 @@ When geometry is created in Dynamo, often other geometry is needed to facilitate
 | Free area | Area of the internal site boundary that is not occupied by the building floor plate |
 | Average incidence | The average incidence in square meters of the external walls of the building |
 
-## Benefits of Using Refinery
+## Benefits of Using Generative Design
 
-Without the aid of Refinery, running this script in Dynamo, the user would be required to manually move the building until they managed to find the desired location and rotation. This process, unless incredibly lucky, would take hours if not days. As the aim is simple, to find the location and rotation that provides either the minimum or maximum incidence, Refinery can be leveraged by using the _`Optimize`_ approach. Larger site offset values restrict the space the building can move and so reduce the potential for it falling outside of the site boundary.
+Without the aid of Generative Design, running this script in Dynamo, the user would be required to manually move the building until they managed to find the desired location and rotation. This process, unless incredibly lucky, would take hours if not days. As the aim is simple, to find the location and rotation that provides either the minimum or maximum incidence, Generative Design can be leveraged by using the *`Optimize`* approach. Larger site offset values restrict the space the building can move and so reduce the potential for it falling outside of the site boundary. 
 
 ## Results
 
-Once Refinery has completed, the results can be explored through the available tables and graphs. The image below shows an example output from an optimized study based on 10 generations with a population of 20. The outputs were defined as minimized for both _`OUT_Area Out(m2)`_ and _`OUT_Avg.(kWh/m2)`_.
+Once Generative Design has completed, the results can be explored through the available tables and graphs.
+The image below shows an example output from an optimized study based on 10 generations with a population of 20. The outputs were defined as minimized for both *`OUT_Area Out(m2)`* and *`OUT_Avg.(kWh/m2)`*.
 
 ![](../../.gitbook/assets/workflow22.png)
 

@@ -1,14 +1,16 @@
-# Office Layout Generator
+# Workflow 3 : Create Office Layout
 
-![](../../.gitbook/assets/workflow31.gif)
+<p align="center">
+  <img src="../../assets/sample/workflow31.gif">
+</p>
 
 ## Description
 
-This graph will generate a series of desk layouts based on a floor plate and neighborhood boundaries. Desks are placed in rows either horizontally or vertically, alongside a reserved space for amenities such as breakout spaces, or tea points. The intention is to find a solution that maximizes the number of desks the layouts can fit in whilst maintaining a high area for amenities.
+This graph will generate a series of desk layouts based on a floor plate and neighborhood boundaries. Desks are placed in rows either horizontally or vertically, alongside a reserved space for amenities such as breakout spaces, or tea points. The intention is to find a solution that maximizes the number of desks the layouts can fit in whilst maintaining a high area for amenities. 
 
-_The sample files for this example can be found in the_ [_`04-03_office-layout`_](https://github.com/martinstacey/RefineryPrimer/tree/ContentBranch/04-sample-workflows/04-00_sample_files/04-00-02_architecture/02-03_Architecture) _folder in the Github repository. This example uses the_ [_refinery toolkit_](https://github.com/DynamoDS/RefineryToolkits) _so be sure to install it before trying this example_
+[Download workflow files](https://github.com/DynamoDS/RefineryPrimer/releases/download/samples-v1/04-02-03_Office-layout.zip)
 
-## Static inputs
+## Static Inputs
 
 | Name | Description |
 | :--- | :--- |
@@ -18,7 +20,7 @@ _The sample files for this example can be found in the_ [_`04-03_office-layout`_
 | Desk depth | Depth of the office desk \(mm\) |
 | Back to back tolerance | Distance between two desks where people would be sat back to back \(mm\) |
 
-## Variable inputs
+## Variable Inputs
 
 | Name | Description |
 | :--- | :--- |
@@ -31,7 +33,7 @@ The script is made up of a series of functions, which are divided into groups in
 
 ## Visualization
 
-When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. To ensure the geometry displayed shows the final geometric output, all unnecessary geometry has been switched off. Any nodes with the preview switched off will not display the output visually in Refinery. In this case, only the perimeter lines of the floor plate, the neighborhood boundaries, amenity spaces and office desks will be visible. The amenity spaces are shown in grey to differentiate them from the rest of the geometry.
+When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. To ensure the geometry displayed shows the final geometric output, all unnecessary geometry has been switched off. Any nodes with the preview switched off will not display the output visually in Generative Design. In this case, only the perimeter lines of the floor plate, the neighborhood boundaries, amenity spaces, and office desks will be visible. The amenity spaces are shown in grey to differentiate them from the rest of the geometry. 
 
 ## Evaluators
 
@@ -40,14 +42,15 @@ When geometry is created in Dynamo, often other geometry is needed to facilitate
 | Amenity space area | The total area occupied by the amenity spaces |
 | Number of desks | The total number of office desks |
 
-## Refinery
+## Generative Design
 
-Designers can spend hours laying out repetitive areas such as offices an toilets. By creating an algorithm with clear goals, maximum number of desks and maximum amenity space, Refinery can be used as the solver to arrive at the best solution quicker.
+Designers can spend hours laying out repetitive areas such as offices an toilets. By creating an algorithm with clear goals, maximum number of desks and maximum amenity space, Generative Design can be used as the solver to arrive at the best solution quicker. 
 
 ## Results
 
-Once Refinery has completed, the results can be explored through the available tables and graphs   
- The image below shows an example output from a randomized study based on 35 solutions.
+Once Generative Design has completed, the results can be explored through the available tables and graphs
+<br>
+The image below shows an example output from a randomized study based on 35 solutions.
 
 ![](../../.gitbook/assets/workflow32.png)
 
