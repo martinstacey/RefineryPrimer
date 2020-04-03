@@ -4,9 +4,9 @@ Project Refinery is currently available as a Beta release, as of March 2019. In 
 
 [https://www.autodesk.com/solutions/refinery-beta](https://www.autodesk.com/solutions/refinery-beta)
 
-![](../.gitbook/assets/install1.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/install1.png)
 
-![](../.gitbook/assets/install2.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/install2.png)
 
 ## The Refinery Community
 
@@ -20,7 +20,7 @@ After signing up for the Beta you will be presented with an overview of the Refi
 
 Any new releases of Refinery will be available to download and install from this location too.
 
-![](../.gitbook/assets/install3.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/install3.png)
 
 _Above: the Refinery community home page_
 
@@ -28,7 +28,7 @@ _Above: the Refinery community home page_
 
 To install the latest version of Refinery, go to the Getting Started section, where you can see the latest Pre-Requisites needed to use Refinery. After making sure you satisfy these initial requirements, please follow the step-by-step guide in the install section.
 
-![](../.gitbook/assets/install4.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/install4.png)
 
 _Above: the Refinery beta community Getting Started instructions page_
 

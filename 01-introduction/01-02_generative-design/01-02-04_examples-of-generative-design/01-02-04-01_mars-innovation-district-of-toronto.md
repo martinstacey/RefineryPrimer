@@ -6,7 +6,7 @@ For the design of the new office and research space in the MaRs Innovation Distr
 
 ### Generate
 
-![](../../../.gitbook/assets/mars1.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/mars1.png)
 
 > Design goals - Mars Innovation District - The Living
 
@@ -16,7 +16,7 @@ The computer used this algorithm, varying its parameters to produce thousands of
 
 ### Evaluate
 
-![](../../../.gitbook/assets/mars2.jpg)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/mars2.jpg)
 
 > Design option evaluated and selected- Mars Innovation District - The Living
 
@@ -35,7 +35,7 @@ After they were formulated, the computer used these algorithms to evaluate each 
 
 ### Explore
 
-![](../../../.gitbook/assets/mars3.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/mars3.gif)
 
 > Design Options - Mars Innovation District - The Living
 

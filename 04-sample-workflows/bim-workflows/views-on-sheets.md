@@ -44,9 +44,7 @@ Without the aid of Refinery, running this script in Dynamo, the user would be re
 
 ## Results
 
-Once Refinery has completed the study, the results can be explored through the available tables and graphs. The image below shows an example output from a randomized study based on 50 outputs. Although this graph would usually be used under optimization criteria, in this case a randomize method was used to display the variety of  results that the script may produce. From the graph below you can see that most results require 2 sheets \(represented as small circles\) but some require 3 sheets \(big circles\). The Y axis represents how well ordered the views are placed. 
+Once Refinery has completed the study, the results can be explored through the available tables and graphs. The image below shows an example output from a randomized study based on 50 outputs. Although this graph would usually be used under optimization criteria, in this case a randomize method was used to display the variety of results that the script may produce. From the graph below you can see that most results require 2 sheets \(represented as small circles\) but some require 3 sheets \(big circles\). The Y axis represents how well ordered the views are placed.
 
 ![](../../.gitbook/assets/refineryresult%20%281%29.png)
-
-
 

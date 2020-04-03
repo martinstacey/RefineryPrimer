@@ -10,7 +10,7 @@ In a nutshell, generative design is a goal-driven approach to design that uses a
 
 As the designer, you specify what outcomes you want to achieve for your design and how they are measured. With your guidance, the computer produces sets of optimal designs, along with the data to prove which design performs best against your goals. Analyzing how the generated designs measure up against the set goals, a designer can gain valuable insight into which design aspects impact the outcome & how.
 
-![](../../.gitbook/assets/whyusegen1.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/whyusegen1.gif)
 
 > Maximization of active shared spaces - Mars Innovation District - The Living
 
@@ -18,7 +18,7 @@ As the designer, you specify what outcomes you want to achieve for your design a
 
 Generative design can help a designer find better designs for his or her project faster, by leveraging what machines are good at: computation & repetition. Computers can generate and evaluate a huge number of design variants in only a fraction of the time it would take an individual designer, allowing us to learn what works & what doesn't at an accelerated pace.
 
-![](../../.gitbook/assets/whyusegen2.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/whyusegen2.gif)
 
 > Design options generated - Mars Innovation District - The Living
 
@@ -28,7 +28,7 @@ Your initial design parameters are used to generate many, even thousands, of pot
 
 For example, it's feasible for a designer to explore ten variants or a few tens if using established computational design techniques. It is not uncommon however for an algorithm, once created, to generate thousands of variants in mere minutes.
 
-![](../../.gitbook/assets/whyusegen3.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/whyusegen3.gif)
 
 > Design options generated - Bionic Partition for Airbus - The Living
 

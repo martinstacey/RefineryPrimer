@@ -1,6 +1,6 @@
 # Other Techniques
 
-![](../.gitbook/assets/othertechniques.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/othertechniques.png)
 
 There are many techniques that can be used to tackle a Computational Design problem. In addition to the genetic algorithm, other examples include:
 

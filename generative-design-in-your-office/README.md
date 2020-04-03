@@ -11,5 +11,3 @@ We will look at the following:
 * [How to convince stakeholders to use generative design.](how-to-convince-senior-stakeholders-of-using-gd.md)
 * [The role of a generative designer.](the-role-of-a-generative-designer.md)
 
-
-

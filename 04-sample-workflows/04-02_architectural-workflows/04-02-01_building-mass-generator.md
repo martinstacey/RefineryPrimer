@@ -1,6 +1,6 @@
 # Building  Mass Generator
 
-![](../../.gitbook/assets/workflow11.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/workflow11.gif)
 
 ## Description
 
@@ -50,8 +50,8 @@ On running the script, Dynamo is able to generate one design option based on the
 
 ## Results
 
-Once Refinery has completed, the results can be explored through the available tables and graphs.   
- The image below shows an example output from a randomized study based on 40 solutions.
+Once Refinery has completed, the results can be explored through the available tables and graphs.  
+The image below shows an example output from a randomized study based on 40 solutions.
 
-![](../../.gitbook/assets/workflow12.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/workflow12.png)
 

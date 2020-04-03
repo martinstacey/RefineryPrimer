@@ -6,7 +6,7 @@ To set up a Dynamo graph for Refinery right-click on each node used to drive the
 
 \(Note: currently all inputs must be number slider nodes\)
 
-![](../.gitbook/assets/setting1.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/setting1.png)
 
 ## Outputs
 
@@ -14,25 +14,25 @@ To define outputs in Refinery, right-click on the watch nodes and select the _`I
 
 \(Note: currently all outputs must be watch nodes with a data type of Number\).
 
-![](../.gitbook/assets/setting2.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/setting2.png)
 
 ## Export to Refinery
 
 Once both inputs and outputs are correctly set up and your graph is saved, Refinery can be exported. In Dynamo navigate to the toolbar and select _`Refinery> Export for Refinery…`_
 
-![](../.gitbook/assets/setting21.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/setting21.png)
 
 Refinery would proceed to create a copy of your graph and would be available to launch. Remember that graphs that have the same name would be overwritten.
 
-![](../.gitbook/assets/setting22.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/setting22.png)
 
 ## Launch Refinery
 
 In Dynamo navigate to the toolbar and select _`Refinery > Launch Refinery`_
 
-![](../.gitbook/assets/setting23.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/setting23.png)
 
 Once refinery is lauched you would have to select _`New Study`_
 
-![](../.gitbook/assets/setting3.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/setting3.png)
 

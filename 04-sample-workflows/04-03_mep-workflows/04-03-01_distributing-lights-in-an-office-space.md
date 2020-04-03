@@ -1,6 +1,6 @@
 # Distributing Spotlights in an Office Space
 
-![](../../.gitbook/assets/workflowmep1.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/workflowmep1.gif)
 
 ## Description
 
@@ -49,5 +49,5 @@ Without the aid of refinery the designer would usually place light sources evenl
 
 Once Refinery has completed, the results can be explored through the available tables and graphs. The image below shows an example output from an optimized study based on 10 generations with a population of 20. The outputs were defined as minimized for both _`underlit spots`_ and _`overlit spots`_.
 
-![](../../.gitbook/assets/workflowsmep2.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/workflowsmep2.png)
 

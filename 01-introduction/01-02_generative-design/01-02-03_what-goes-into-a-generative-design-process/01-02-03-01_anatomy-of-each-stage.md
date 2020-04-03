@@ -6,7 +6,7 @@ Using this breakdown, let's look at what the _`Generate`_ stage would entail.
 
 ### Define
 
-![](../../../.gitbook/assets/anatomy1.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/anatomy1.png)
 
 For the _`define`_ step, the expertise of the designer is needed to
 
@@ -17,13 +17,13 @@ This _`define`_ step is present and vital for all stages of the generative desig
 
 ### Run
 
-![](../../../.gitbook/assets/anatomy2.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/anatomy2.png)
 
 Once everything is defined in the algorithms & accompanying parameters, the machine begins to _`run`_, meaning it starts to generate different designs options. This process might happen locally on the designer's computer or, for more intensive calculations, run using cloud computing.
 
 ### Results
 
-![](../../../.gitbook/assets/anatomy3.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/anatomy3.png)
 
 Things that are generated in the run step are the final results or outputs of each stage and are used as inputs or parameters in subsequent phases. For example, the designs created in the _`Generate`_ phase are used as one of input parameters in the _`Analysis`_ phase.
 
@@ -31,7 +31,7 @@ Things that are generated in the run step are the final results or outputs of ea
 
 We can map these stages & steps together in a single diagram to visualize the order they happen in and the dependencies between them.
 
-![](../../../.gitbook/assets/anatomy4.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/anatomy4.png)
 
 The diagram above should clearly illustrate how
 

@@ -2,7 +2,7 @@
 
 Welcome to the **Refinery Primer**, which aims to introduce AEC practitioners of all experience levels to an exciting new approach to design using generative design workflows.
 
-![](.gitbook/assets/introgif.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/introgif.gif)
 
 ## About
 
@@ -16,7 +16,7 @@ This primer will help you:
 
 Autodesk is working to **democratize technologies** that can help designers in the AEC industry automate the creation of design options and optimise those designs to achieve better outcomes.
 
-![](.gitbook/assets/whyprimer.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/whyprimer.png)
 
 Using these technologies requires new skills and new ways to think about design. We created this primer to explain the terminology, ideas and methods you will need to understand to begin using generative design workflows and tools that support this new approach to design.
 
@@ -24,7 +24,7 @@ _Note: there are many different applications of generative design/art, and this 
 
 **matterlab** was commissioned to kick-start the development of this primer, we thank them for all their efforts in establishing this valuable resource.
 
-[![](.gitbook/assets/matterlab-logo.jpg)](https://www.matterlab.co/)
+[![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/matterlab-logo.jpg)](https://www.matterlab.co/)
 
 ## Open-Source
 

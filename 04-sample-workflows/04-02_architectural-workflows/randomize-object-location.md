@@ -8,7 +8,7 @@ This graph will generate a series of scenes with different entourage elements. E
 
 This workflow is intended to be used with `randomize` so no optimization criteria is needed, but some outputs are given to achieve a better perception of some of the attributes of each scene. With this workflow you are able to save time by quickly generating multiple scenes without the need for manually placing each element individually.
 
-_The sample files for this example can be found in the  `PROVIDE LINK` folder in the Github repository._ 
+_The sample files for this example can be found in the `PROVIDE LINK` folder in the Github repository._
 
 ## Static inputs
 
@@ -30,7 +30,7 @@ _The sample files for this example can be found in the  `PROVIDE LINK` folder in
 
 | Name | Description |
 | :--- | :--- |
-| Seed cluster count | Determines amount of clusters  |
+| Seed cluster count | Determines amount of clusters |
 | Seed cluster Us/Vs | Determines UV position of each cluster |
 | Seed Spacing in Cluster | Determines spacing for each cluster |
 | Seed Elements per cluster | Determines amount of elements in each cluster |
@@ -38,9 +38,9 @@ _The sample files for this example can be found in the  `PROVIDE LINK` folder in
 
 ## Functions
 
-The script is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description. The name indicates the type of function that is being run and the description explains in more detail the process. 
+The script is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description. The name indicates the type of function that is being run and the description explains in more detail the process.
 
-The script would start by extracting the surface of a room. This room would be used to place the entourage elements. Then, it would continue to create a series of clusters of elements. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics will be calculated relating the new family instances and the point of interest. 
+The script would start by extracting the surface of a room. This room would be used to place the entourage elements. Then, it would continue to create a series of clusters of elements. It would then filter and place only the elements that are inside the designated room. The script would continue by randomly assigning a family instance to each point. Metrics will be calculated relating the new family instances and the point of interest.
 
 ## Visualization
 
@@ -60,16 +60,16 @@ There is no optimization but some metrics give you information of the scenes cre
 
 ## Results
 
-Once Refinery has completed, the results can be explored through the available tables and graphs   
- The image below shows an example output from a randomized study based on 40 solutions.
+Once Refinery has completed, the results can be explored through the available tables and graphs  
+The image below shows an example output from a randomized study based on 40 solutions.
 
 ![](../../.gitbook/assets/screenshot-2020-02-10-10.56.23.png)
 
 ## A More Organic Random Using Gaussian Distribution
 
-One of the key elements to understand when placing elements randomly is Gaussian distribution. By using Gaussian normal distribution instead of the regular random method you can control the clustering of elements and your placement would feel more organic. 
+One of the key elements to understand when placing elements randomly is Gaussian distribution. By using Gaussian normal distribution instead of the regular random method you can control the clustering of elements and your placement would feel more organic.
 
-![](../../.gitbook/assets/workflowrandom1.jpg)
+![](../../.gitbook/assets/workflowrandom1%20%281%29.jpg)
 
 For further reading on this subject please refer to the following link:
 

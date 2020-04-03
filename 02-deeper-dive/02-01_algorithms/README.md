@@ -1,6 +1,6 @@
 # Algorithms
 
-![](../../.gitbook/assets/algorithm.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/algorithm.png)
 
 In this chapter, we’ll look at:
 

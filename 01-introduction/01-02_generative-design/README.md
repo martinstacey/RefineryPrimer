@@ -9,7 +9,7 @@ We will look at the following:
 * [What goes into a generative design process?](01-02-03_what-goes-into-a-generative-design-process/)
 * [Examples of Generative Design](01-02-04_examples-of-generative-design/)
 
-![](../../.gitbook/assets/gendesign.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/gendesign.gif)
 
 > Massing analysis - Alkmaar Housing Commission - The Living
 

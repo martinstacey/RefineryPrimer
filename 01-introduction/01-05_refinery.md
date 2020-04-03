@@ -4,15 +4,15 @@
 
 Project Refinery is Autodesk’s latest application for generative design workflows that allows users to explore, evaluate, and optimize their Dynamo designs. Refinery allows users to set multiple \(and sometimes, competing\) design goals, generates a series of solutions, and enables the user to make decisions by automating the creation and evaluation of designs.
 
-![](../.gitbook/assets/refinery1.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/refinery1.png)
 
 The key features of Project Refinery are that it makes it easier to drive a design towards optimality, as it handles all the back-end work of generation and iteration and presents the user with either a single design solution or a collection of optimal solutions that best align with his or her goals.
 
-![](../.gitbook/assets/refinery2.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/refinery2.png)
 
 In short, Refinery enables users to tackle the _`Generate`_, _`Evaluate`_, _`Evolve`_ & _`Explore`_ stages of a generative design process.
 
-![](../.gitbook/assets/refinery3.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/refinery3.png)
 
 As a technical note, Refinery:
 

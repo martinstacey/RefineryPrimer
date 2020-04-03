@@ -2,7 +2,7 @@
 
 This section will explore a series of workflows that can be found in the 07-00\_sample\_files folder in the Github repository.
 
-![](../.gitbook/assets/sample.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/sample.png)
 
 * [Getting Started Workflows](04-01_getting-started-workflows/) 
 * [Architectural Workflows](04-02_architectural-workflows/)

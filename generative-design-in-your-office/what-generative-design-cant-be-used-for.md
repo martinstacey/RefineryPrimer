@@ -12,7 +12,7 @@ Although generative design is great at solving problems, there are certain probl
 
 ![](../.gitbook/assets/evidentsolutions%20%281%29.png)
 
-One of the advantages of Refinery is that it may help you clarify multiple dimensionality and complexity that go way beyond human understanding. Although some of the examples presented in this primer are simple, the true potential of Refinery is achieved by incorporating conflicting criteria and the right amount of complexity. To avoid wasting time and ensure Refinery becomes a valuable resource, focus on problems that do not have evident solutions. If your problem delivers evident solutions you may be lacking variables. ****
+One of the advantages of Refinery is that it may help you clarify multiple dimensionality and complexity that go way beyond human understanding. Although some of the examples presented in this primer are simple, the true potential of Refinery is achieved by incorporating conflicting criteria and the right amount of complexity. To avoid wasting time and ensure Refinery becomes a valuable resource, focus on problems that do not have evident solutions. If your problem delivers evident solutions you may be lacking variables. _\*\*_
 
 ### Confusing Visual Programming Problems with Generative Design Problems
 
@@ -24,7 +24,7 @@ Even though Refinery works with Dynamo, it is important to differentiate between
 
 ![](../.gitbook/assets/refineryvariables%20%281%29.png)
 
-A generative design problem needs a set of variables/inputs. These inputs need to be manipulated and their variation should result in a design space to explore. If the design space is too limited, Refinery is not able to show heterogeneous results. 
+A generative design problem needs a set of variables/inputs. These inputs need to be manipulated and their variation should result in a design space to explore. If the design space is too limited, Refinery is not able to show heterogeneous results.
 
 ### No Clear Relationship Between Variables and Intention
 

@@ -4,9 +4,9 @@ An evaluator \(also known as a discriminator\), is fed potential solutions from 
 
 In design, evaluators must be specified mathematically, they must output a number that can be used to discriminate between solutions.
 
-![](../../.gitbook/assets/evaluators1.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/evaluators1.png)
 
 Again, in the simple Dynamo example below, the nodes that are highlighted demonstrate evaluators. They are nodes that query a particular property of the design option, in this case the volume and surface area of the cuboid. These evaluators allow the user or programme to critique each design option to help pick the best one based on our predefined rules - maximum volume, minimum surface area etc.
 
-![](../../.gitbook/assets/evaluators2.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/evaluators2.png)
 

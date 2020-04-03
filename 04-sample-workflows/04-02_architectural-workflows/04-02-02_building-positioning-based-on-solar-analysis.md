@@ -1,6 +1,6 @@
 # Building Positioning based on Solar Analysis
 
-![](../../.gitbook/assets/workflow21.gif)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/workflow21.gif)
 
 ## Description
 
@@ -53,5 +53,5 @@ Without the aid of Refinery, running this script in Dynamo, the user would be re
 
 Once Refinery has completed, the results can be explored through the available tables and graphs. The image below shows an example output from an optimized study based on 10 generations with a population of 20. The outputs were defined as minimized for both _`OUT_Area Out(m2)`_ and _`OUT_Avg.(kWh/m2)`_.
 
-![](../../.gitbook/assets/workflow22.png)
+![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/workflow22.png)
 
