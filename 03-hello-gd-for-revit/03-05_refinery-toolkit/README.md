@@ -25,7 +25,7 @@ This toolkit offers a range of nodes that help with general space-planning workf
 
 This toolkit offers resources and information about optimization and design option generation for massing.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/massingtoolkit_overview.png)
 
 [Read more about the MassingToolkit](https://github.com/DynamoDS/RefineryToolkits/tree/master/src/MassingSandbox).
 
