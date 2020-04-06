@@ -45,8 +45,8 @@ In this case, only the perimeter lines of the floor plate, neighborhood boundari
 
 | Name | Description |
 | :--- | :--- |
-| Amenity space area | The total area occupied by the amenity spaces |
-| Number of desks | The total number of office desks |
+| Amenity space area \(m²\) | The total area occupied by the amenity spaces |
+| Number of desks \(u\) | The total number of office desks |
 
 ## Generative Design
 
