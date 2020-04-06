@@ -28,7 +28,7 @@ Another thing to consider is that it's desirable for fitness functions to be cal
 
 One of the great strengths of a genetic approach is that the fitness function can be quite complicated without impacting the genetic algorithm's ability to execute. 
 
-In fact, a single genetic model can have multiple competing fitness functions or even a single fitness function that is a combination of several others - for example, minimizing the weight of a design while also making it as structurally sound as possible \(this is also known as 'multi-objective optimization'\).
+In fact, a single genetic model can have multiple competing fitness functions for example, minimizing the weight of a design while also making it as structurally sound as possible \(this is also known as 'multi-objective optimization'\).
 
 ![](../../.gitbook/assets/evaluation3.png)
 
