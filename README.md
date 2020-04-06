@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the **Generative Design Primer**. This document aims to introduce AEC practitioners of all experience levels to an exciting new approach to design using generative design workflows.
+Welcome to the **Generative Design Primer**. This document aims to introduce AEC practitioners of all experience levels to an exciting, new approach to design: generative design workflows.
 
 ![](.gitbook/assets/introgif.gif)
 
@@ -18,7 +18,7 @@ Autodesk is working to **democratize technologies** that can help designers in t
 
 ![](.gitbook/assets/whyprimer.png)
 
-Using these technologies requires new skills and new ways to think about design. We created this primer to explain the terminology, ideas and methods you'll need to begin using generative design workflows and tools that support this new approach to design.
+Using these technologies requires new skills and new ways to think about design. We created this primer to explain the terminology, ideas and methods you'll need to begin using generative design workflows and tools that support it.
 
 _Note: There are many different applications of generative design/art and this primer does not aim to cover them all. This primer is focused on AEC methodologies and how these apply to both Generative Design and Dynamo._
 
@@ -28,19 +28,19 @@ _Note: There are many different applications of generative design/art and this p
 
 ## Open-Source
 
-This primer is an open-source project initiated by the **AEC Generative Design Team** at Autodesk and we are dedicated to providing high-quality content on generative design in this primer.
+This primer is an open-source project initiated by the **AEC Generative Design Team** at Autodesk. In this project, we are dedicated to providing high-quality content on Generative Design and generative design processes.
 
 Contributions are of course welcome. You can contribute to the primer in the following ways:
 
-* You can report any issue you may have found on our [issues page](https://github.com/DynamoDS/GenerativePrimer/issues).
-* If you’d like to improve, clarify, or add content to the Primer, please head over to our [Github repository](https://github.com/DynamoDS/GenerativePrimer).
-* Have an example workflow of generative design? Head over to our [contribution guidelines](https://github.com/DynamoDS/RefineryPrimer/blob/master/CONTRIBUTING.md) and see how you can add it to the Community examples section.
+* You can report any issues on our [issues page](https://github.com/DynamoDS/GenerativePrimer/issues).
+* If you’d like to improve, clarify, or add content to this document, please head over to our [Github repository](https://github.com/DynamoDS/GenerativePrimer).
+* If you have an example workflow of generative design that you'd like to share with this community, please head over to our [contribution guidelines](https://github.com/DynamoDS/RefineryPrimer/blob/master/CONTRIBUTING.md) to find out more about how to do it.
 
 ## Contact
 
-Please let us know about any issues with this document.
+Please let us know about any issues with this document by sending and email to the following email address:
 
-refineryfeedback@autodesk.com
+[refineryfeedback@autodesk.com](mailto:refineryfeedback@autodesk.com)
 
 ## License
 
