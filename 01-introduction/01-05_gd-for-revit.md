@@ -6,13 +6,13 @@ Generative Design allows users to set multiple \(and sometimes competing\) desig
 
 ![](../.gitbook/assets/refinery1%20%281%29.png)
 
-The key benefit of Generative Design are that it makes it easier to optimize a design, as it handles all the back-end work of generation and iteration, presenting the user with either a single design solution or a collection of optimal solutions that best align with his or her goals. 
+The key benefit of Generative Design is that it makes it easier to optimize a design, as it handles all the back-end work of generation and iteration, presenting the user with either a single design solution or a collection of optimal solutions that best aligns with their goals. 
 
-Generative Design for Revit also allows someone who is not Dynamo-savvy to use generative design workflows.
+Generative Design for Revit also allows someone who is not experienced in Dynamo to use generative design workflows.
 
 ![](../.gitbook/assets/refinery2.png)
 
-In short, Generative Design for Revit and Dynamo enables users to tackle the _`Generate`_, _`Evaluate`_, _`Evolve`_ and _`Explore`_ stages of a generative design process.
+In short, Generative Design for Revit and Dynamo enables users to tackle the _`generate`_, _`evaluate`_, _`evolve`_ and _`explore`_ stages of a generative design process.
 
 ![](../.gitbook/assets/refinery3.png)
 

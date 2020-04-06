@@ -33,7 +33,9 @@ All sample files for this example can be found in the \[PROVIDE LINK\] folder in
 
 The graph is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description, where the name indicates the type of function being run and the description explains the process in more detail.
 
-This graph will input a model element, a room and variables for placing a grid. The rooms surface and perimeter are used to calculate further metrics. Next, random values are assigned for the wall distance between the wall and the beginning of the grid, the grid X-axis separation and Y-axis separation. These values are used to create points along the room. The graph then determines how much each object's area of influence overlaps with one another, and with the perimeter of the room.
+This graph will input a model element, a room and variables for placing a grid. The rooms surface and perimeter are used to calculate further metrics. Next, random values are assigned for the wall distance between the wall and the beginning of the grid, and the grid X- and Y-axes separations. 
+
+These values are used to create points along the room. The graph then determines how much each object's area of influence overlaps with one another, and with the perimeter of the room.
 
 Using optimization, the object's coverage is maximized while the total object overlap and the number of objects is minimized.
 

@@ -4,10 +4,11 @@ In this chapter, we'll dive into more complex concepts in the world of generativ
 
 ![](../.gitbook/assets/deeper.png)
 
-We will explore:
+We will explore the following topics:
 
-* algorithms
-* optioneering
-* optimization
-* genetic algorithms
+* [Algorithms](02-01_algorithms/)
+* [Optioneering](02-02_optioneering.md)
+* [Optimization](02-03_optimization/)
+* [Genetic Algorithms](02-04_genetic-algorithms/)
+* [Other Techniques](02-05_other-techniques.md)
 

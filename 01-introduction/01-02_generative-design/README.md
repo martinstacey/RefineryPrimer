@@ -1,6 +1,6 @@
 # Generative Design
 
-In this section, we’ll look at what the term _`generative design`_ means in relation to AEC.
+In this section, we’ll look at what the term _`generative design`_ means in relation to the AEC industry.
 
 We will look at the following:
 

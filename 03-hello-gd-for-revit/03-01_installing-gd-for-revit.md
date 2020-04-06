@@ -1,6 +1,8 @@
 # Installing Generative Design
 
-Generative Design is currently available as a beta release, as of March 2019. In order to use Generative Design, you need to sign up to the Generative Design community, using your Autodesk credentials at the following website:
+Generative Design is currently available as a beta release, as of March 2019. 
+
+In order to use Generative Design, you need to sign up to the Generative Design community, using your Autodesk credentials at the following website:
 
 [https://www.autodesk.com/solutions/refinery-beta](https://www.autodesk.com/solutions/refinery-beta)
 
@@ -10,7 +12,7 @@ Generative Design is currently available as a beta release, as of March 2019. In
 
 ## The Generative Design Community
 
-After signing up for the beta version, you'll be presented with an overview of the Generative Design community. From here you can do the following:
+After signing up for the beta version, you'll be presented with an overview of the Generative Design community. From there, you can do the following:
 
 * Access detailed instructions on getting started and installation.
 * Access demo/sample files.
@@ -22,15 +24,15 @@ Any new releases of Generative Design will be available to download and install 
 
 ![](../.gitbook/assets/install3.png)
 
-_Above: The Generative Design community home page_
+_Above: The Generative Design community homepage._
 
 ## Installing Generative Design for Revit and Dynamo
 
-To install the latest version of Generative Design, go to the 'Getting Started' section on Autodesk, where you can see the latest pre-requisites needed to use Generative Design.
+To install the latest version of Generative Design, go to the 'Getting Started' section on Autodesk, where you'll see the latest pre-requisites for Generative Design.
 
 After making sure you have all the initial requirements, please follow the step-by-step guide in the install section.
 
 ![](../.gitbook/assets/install4.png)
 
-_Above: The Generative Design beta community Getting Started instructions page_
+_Above: The Generative Design beta community Getting Started instructions page._
 

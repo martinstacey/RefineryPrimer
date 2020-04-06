@@ -28,7 +28,7 @@ _Note: If your problem has obvious solutions then you may need more variables._
 
 Even though Generative Design works with Dynamo, it is important to differentiate between problems that need an automated process and problems that need exploration. 
 
-As a rule of thumb: if you intend to solve a problem that deals with automation, use Dynamo; if you intend to explore multiple solutions, use Generative Design.
+As a rule of thumb, if you intend to solve a problem that deals with automation, use Dynamo; if you intend to explore multiple solutions, use Generative Design.
 
 ### Incorrectly Defined Problems
 
@@ -36,7 +36,7 @@ As a rule of thumb: if you intend to solve a problem that deals with automation,
 
 A generative design problem always needs a set of variables or inputs. These inputs are manipulated by the user and their variation should result in a design space to explore. 
 
-If these variables are too limited ten Generative Design won't be able to offer a variety of results to the problem.
+If these variables are too limited, Generative Design won't be able to offer a variety of results to the problem.
 
 ### No Clear Relationship Between Variables and Intention
 

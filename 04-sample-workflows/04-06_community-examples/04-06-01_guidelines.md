@@ -30,10 +30,10 @@ Example:`RAH_FloorsFromSolarAnalysis.zip`
 
 #### 2. Create Brief Description
 
-* In the .zip file described above create a folder titled: `Description`
+* Inside the .zip file you just created, create a folder titled: 'Description'
 * Add a brief description and an image to this folder.
 * The image should be:
-  * format: `.png` format
+  * format: .png
   * size: width 720px, height 300px
 * The brief description should include: 
   * title of workflow
@@ -46,7 +46,7 @@ Example:`RAH_FloorsFromSolarAnalysis.zip`
 
 ## Dynamo Files: Basic Guidelines
 
-To ensure that all sample files presented in this page are easy to understand, we recommend you do the following:
+To ensure that all sample files presented in this page are easy to understand, we recommend you do take the following steps.
 
 ### Create a Title Block
 

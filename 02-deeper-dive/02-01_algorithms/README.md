@@ -9,5 +9,5 @@ In this chapter, we'll learn about:
 * [Evaluators](02-01-03_evaluators.md)
 * [Solvers](02-01-04_solvers.md) \(and how Generative Design behaves as a solver\).
 
-First, let's understand what the term _`algorithms`_ means in relation to AEC and generative design.
+First, let's understand what the term 'algorithm' means in relation to the AEC industry and generative design.
 

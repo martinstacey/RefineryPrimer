@@ -39,14 +39,14 @@ Once all the views have been placed on sheets, the script evaluates the design b
 | Name | Description |
 | :--- | :--- |
 | Number of sheets | Total number of sheets created to accommodate all views |
-| Sheet space not occupied | Percentage of the space left over in the generated sheets |
-| Order percentage | Percentage measuring how good the order is in the shuffled list of views |
+| Sheet space not occupied \(%\) | Percentage of the space left over in the generated sheets |
+| Order percentage \(%\) | Percentage measuring how good the order is in the shuffled list of views |
 
 ## Benefit of Using Generative Design
 
 Without Generative Design, in running this script in Dynamo the user would be required to manually reorder the list of views manually until they manage to find the desired layout. This process would take hours, if not days \(unless the user was incredibly lucky\). 
 
-As the aim of this example is simple \(finding the best arrangement for the views and maximizing the space used in the sheets\), Generative Design can be leveraged by using the optimize approach. 
+As the aim of this example is simple \(finding the best arrangement for the views and maximizing the space used in the sheets\), Generative Design is useful because of its ability to optimize.
 
 The shuffle seed included in the script helps Generative Design to keep a record of the best-shuffled option and optimize the results from there.
 
@@ -54,7 +54,9 @@ The shuffle seed included in the script helps Generative Design to keep a record
 
 Once Generative Design has finished the study, the results can be explored through the Generative Design's tables and graphs. 
 
-The image below shows an example output from a randomized study based on 50 outputs. Although this graph would usually be used for optimization, in this case a randomize method was used to display the variety of results that the script may produce. From the graph below, you can see that most results require two sheets \(represented as small circles\) but some require three sheets \(big circles\). The Y-axis represents how well ordered the views are placed.
+The image below shows an example output from a randomized study based on 50 outputs. Although this graph would usually be used for optimization, in this case a randomize method was used to display the variety of results that the script may produce. 
+
+From the graph below, you can see that most results require two sheets \(represented as small circles\) but some require three sheets \(big circles\). The Y-axis represents how well ordered the views are placed.
 
 ![](../../.gitbook/assets/workflowsheets2.png)
 

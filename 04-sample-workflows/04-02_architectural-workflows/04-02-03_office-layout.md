@@ -16,8 +16,8 @@ The intention is to find a solution that maximizes the number of desks in the la
 | :--- | :--- |
 | Floor plate | Select the floor geometry |
 | Neighborhood boundaries | Select the neighborhood boundaries \(model curves\) |
-| Desk width | Width of the office desk \(mm\) |
-| Desk depth | Depth of the office desk \(mm\) |
+| Desk width \(mm\) | Width of the office desk |
+| Desk depth \(mm\) | Depth of the office desk |
 | Back-to-back tolerance \(mm\) | Distance between two desks where people would be sitting back-to-back  |
 
 ## Variable Inputs
@@ -50,11 +50,11 @@ In this case, only the perimeter lines of the floor plate, neighborhood boundari
 
 ## Generative Design
 
-Designers can spend hours laying out repetitive areas such as offices an toilets. By creating an algorithm with clear goals like this \(maximum number of desks and maximum amenity space\), Generative Design can be used as the solver to arrive at the best solution quicker.
+Designers can spend hours laying out repetitive areas such as offices and toilets. By creating an algorithm with clear goals like this \('maximum number of desks' and 'maximum amenity space'\), Generative Design can be used as the solver to arrive at the best solution quicker.
 
 ## Results
 
-Once Generative Design has completed, the results can be explored through the available Generative Design's tables and graphs. The image below shows an example output from a randomized study based on 35 solutions.
+Once Generative Design has finished, the results can be explored through the available Generative Design's tables and graphs. The image below shows an example output from a randomized study based on 35 solutions.
 
 ![](../../.gitbook/assets/workflow32.png)
 

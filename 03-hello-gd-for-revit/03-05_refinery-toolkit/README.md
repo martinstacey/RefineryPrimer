@@ -6,34 +6,34 @@ The Refinery Toolkit is a collection of packages to accelerate generative design
 
 ## The toolkits
 
-There are currently 2 packages included in the toolkit, each focusing on enabling specific types of workflows:
+There are currently two packages included in the toolkit, each focusing on enabling specific types of workflows:
 
 * SpacePlanning Toolkit
 * Massing Toolkit
 
 ### Space Planning Toolkit
 
-The toolkit offers a range of nodes that help with general space-planning workflows in Dynamo and Revit.
+This toolkit offers a range of nodes that help with general space-planning workflows in Dynamo and Revit.
 
 ![](../../.gitbook/assets/packing_gif.gif)
 
 ![](../../.gitbook/assets/visibilityanalysis.gif)
 
-[Read more about the SpacePlanningToolkit](https://github.com/DynamoDS/RefineryToolkits/tree/master/src/SpacePlanning)
+[Read more about the SpacePlanningToolkit](https://github.com/DynamoDS/RefineryToolkits/tree/master/src/SpacePlanning).
 
 ### Massing Toolkit
 
-optimization & design option generation
+This toolkit offers resources and information about optimization and design option generation for massing.
 
 ![](../../.gitbook/assets/image.png)
 
-[Read more about the MassingToolkit](https://github.com/DynamoDS/RefineryToolkits/tree/master/src/MassingSandbox)
+[Read more about the MassingToolkit](https://github.com/DynamoDS/RefineryToolkits/tree/master/src/MassingSandbox).
 
-[Read more about the MassingToolkit for Revit](https://github.com/DynamoDS/RefineryToolkits/tree/master/src/MassingRevit)
+[Read more about the MassingToolkit for Revit](https://github.com/DynamoDS/RefineryToolkits/tree/master/src/MassingRevit).
 
 ## For more Information
 
-To get more information on the Refinery Toolkit visit the following link:
+For more information on the Refinery Toolkit, please visit the following page:
 
 [https://github.com/DynamoDS/RefineryToolkits](https://github.com/DynamoDS/RefineryToolkits)
 

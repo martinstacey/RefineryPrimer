@@ -4,7 +4,7 @@ In this chapter, we’ll look at key concepts that are essential to understandin
 
 ![](../.gitbook/assets/intro.png)
 
-We will look into the following topics:
+In this section, we will explore the following topics:
 
 * the fundamental concepts needed to understand generative design
 * a definition of generative design in the context of AEC
@@ -13,5 +13,5 @@ We will look into the following topics:
 * common approaches used
 * related concepts
 
-Let’s start by looking at something you’re very likely to be aware of and already using today: computational design.
+Let’s start by looking at something you’re likely to be familiar with and already using today: computational design.
 

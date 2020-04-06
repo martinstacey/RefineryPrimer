@@ -1,12 +1,10 @@
 # Hello Generative Design for Revit and Dynamo!
 
-Now that we're familiar with what generative design is and the basic concepts behind it, and also now that we've seen some example use-cases, the next question becomes:
+In this chapter, we’ll look at how we can use generative design principles to solve real-world design problems. We will do this by looking at a few common design challenges.
 
 ![](../.gitbook/assets/hellorefinery.png)
 
-> How can we leverage software tools to apply generative design principles to real-world design problems?
+Although a generative design approach may sounds complex, it's important to remember that it's not limited to solving complex design problems; it can solve simple ones too. 
 
-This chapter demonstrates the answer to this question through a series of common design challenges.
-
-It's important to note that, although it sounds complex, a generative design approach is not limited to only solving complex design problems. In fact, once a designer has a computational design process set up, generative design can help solve design questions easily and eliminate huge amounts of manual work for easy and complex design problems alike.
+In fact, once a designer has a computational design process set up, generative design approaches can help solve design questions easily, eliminating large amounts of manual work for easy and complex design problems alike.
 

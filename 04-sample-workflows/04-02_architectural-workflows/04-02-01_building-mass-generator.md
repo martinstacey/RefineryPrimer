@@ -4,7 +4,7 @@
 
 ## Description
 
-This graph, used with Generative Design on _`Randomize`_ mode, will generate a series of random towers, sitting across a stipulated site boundary. 
+This graph, used with Generative Design on 'Randomize' mode, will generate a series of random towers, sitting across a stipulated site boundary. 
 
 The tower will randomize heights, floor plate designs and orientations, allowing for a large number of potential design solutions within minutes.
 
@@ -21,8 +21,8 @@ The tower will randomize heights, floor plate designs and orientations, allowing
 | Name | Description |
 | :--- | :--- |
 | Site offset | A number to define the offset from the site boundary |
-| Building height | Range \(mm\) for the total height of the tower |
-| Floor height | Range \(mm\) for the floor-to-floor height of the tower |
+| Building height \(mm\) | Range for the total height of the tower |
+| Floor height \(mm\) | Range for the floor-to-floor height of the tower |
 | U Values | U Parameters at surface for the seven points that will create the base floor plate |
 | V Values | V Parameters at surface for the seven points that will create the base floor plate |
 
@@ -46,7 +46,7 @@ With the geometry of the building generated, the script then evaluates the desig
 
 When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. 
 
-Please note that all unnecessary geometry has been switched off in Dynamo - this is to ensure the geometry displayed shows the final geometric output.. Any nodes with the preview switched off will not display the output visually in Generative Design. 
+Please note that all unnecessary geometry has been switched off in Dynamo - this is to ensure the geometry displayed shows the final geometric output. Any nodes with the preview switched off will not display the output visually in Generative Design. 
 
 In this case, only the site boundary \(the tower's external walls and floors\) will be visible. This will provide the user with the ability to critique the design options based on aesthetics within the Generative Design thumbnail. 
 
@@ -56,7 +56,7 @@ A series of context buildings have been included in the Revit sample file for a 
 
 On running the script, Dynamo is able to generate one design option based on the user inputs. However, by utilizing Generative Design as the solver, many more options can be generated in a single run. 
 
-Due to the nature of this graph, it works best when using the _`Randomize`_ mode. Although the outputs can be used to maximize or minimize the various areas, the optimization approach won't work as there is no pattern for the algorithm to use. By selecting _`Randomize`_, Generative Design can produce hundreds - if not thousands - of different iterations, allowing the user to rank and explore the options to find the best option.
+Due to the nature of this graph, it works best when using the 'Randomize' mode. Although the outputs can be used to maximize or minimize the various areas, the optimization approach won't work as there is no pattern for the algorithm to use. By using the 'Randomize' mode, Generative Design can produce hundreds - if not thousands - of different iterations, allowing the user to rank and explore the options to find the best option.
 
 ## Results
 

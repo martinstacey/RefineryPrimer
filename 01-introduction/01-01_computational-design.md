@@ -6,7 +6,7 @@ Crucially, these steps must be computable, meaning they can be understood and ca
 
 ![](../.gitbook/assets/compdesign.gif)
 
-> Image above Martin Stacey - UCL - NURBS manipulation.
+> _Above: Image of an NURBS manipulations from Martin Stacey - UCL._
 
 Put simply, computers are very good at performing calculations and executing pre-defined steps.
 

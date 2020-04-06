@@ -4,7 +4,7 @@
 
 ## Description
 
-This graph will move and rotate the position of a selected mass within a site boundary to minimize or maximize the solar incidence by Area ratio. This workflow relies heavily on the 'Solar Analysis' node from Dynamo, which makes external calls to a web service to collect the necessary information for analysis. 
+This graph will move and rotate the position of a selected mass within a site boundary to minimize or maximize the solar incidence by area ratio. This workflow relies heavily on the 'Solar Analysis' node from Dynamo, which makes external calls to a web service to collect the necessary information for analysis. 
 
 As a result, each iteration can take a while to run. For the options where the movement or rotation causes the building to fall outside of the site boundary, the results are heavily penalized to ensure the analysis doesn't run.
 
@@ -33,7 +33,9 @@ As a result, each iteration can take a while to run. For the options where the m
 
 The script is made up of a series of functions, which are divided into groups inside the graph. Each group has a name and a short description, where the name indicates the type of function being run and the description explains in more detail the process.
 
-The graph uses the Revit mass \(building\) and extracts the geometry in Dynamo. All the surrounding context higher than 30m tall is also referenced in as Dynamo geometry. The generator of this script provides a new location \(based on the U and V values\), along with a new rotation. The building is then moved to the new location point and rotated to fit the new angle. Once the building is in its new location and in line with the site boundary, the solar analysis takes place by reviewing all external vertical surfaces of the building and calculating their solar incidence.
+The graph uses the Revit mass \(or building\) and extracts the geometry in Dynamo. All the surrounding context higher than 30m tall is also referenced as in Dynamo geometry. 
+
+The generator of this script provides a new location \(based on the U and V values\), along with a new rotation. The building is then moved to the new location point and rotated to fit the new angle. Once the building is in its new location and in line with the site boundary, the solar analysis takes place by reviewing all external vertical surfaces of the building and calculating their solar incidence.
 
 ## Visualization
 
@@ -47,21 +49,21 @@ The solar analysis is represented on the external surfaces of the building as a 
 
 | Name | Description |
 | :--- | :--- |
-| Area out | Area of the building \(m²\) that sits outside the site boundary |
-| Free area | Area of the internal site boundary that is not occupied by the building floor plate |
-| Average incidence | The average incidence \(m²\) of the external walls of the building |
+| Area out \(m²\)  | Area of the building that sits outside the site boundary |
+| Free area \(m²\) | Area of the internal site boundary that is not occupied by the building floor plate |
+| Average incidence \(m²\) | The average incidence of the external walls of the building |
 
 ## Benefits of Using Generative Design
 
 Without Generative Design, in running this script in Dynamo the user would have to manually move the building until they finally managed to find the desired location and rotation. This process would take hours if not days \(unless they were incredibly lucky\). 
 
-As the aim in this example is simple \(finding the best location and rotation for either the minimum or maximum incidence\), Generative Design can be leveraged by using the _`Optimize`_ approach; larger site offset values would limit the space the building can move and so would also reduce the potential for it falling outside of the site boundary.
+As the aim in this example is simple \(finding the best location and rotation for either the minimum or maximum incidence\), Generative Design can be leveraged by using the 'Optimize' approach; larger site offset values would limit the space the building can move and so would also reduce the potential for it falling outside of the site boundary.
 
 ## Results
 
 Once Generative Design has completed, the results can be explored through Generative Design's tables and graphs. 
 
-The image below shows an example output from an optimized study based on 10 generations with a population of 20. The outputs were defined as minimized for both _`OUT_Area Out(m2)`_ and _`OUT_Avg.(kWh/m2)`_.
+The image below shows an example output from an optimized study based on ten generations with a population of 20. The outputs were defined as minimized for both _`OUT_Area Out(m2)`_ and _`OUT_Avg.(kWh/m2)`_.
 
 ![](../../.gitbook/assets/workflow22.png)
 

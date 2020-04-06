@@ -8,17 +8,17 @@ The objective of the graph is to get the orange sphere to the highest peak of th
 
 ![](../../.gitbook/assets/applychanges1.png)
 
-U and V Point values are used to move the sphere across the surface. Because these values are the driving inputs, they need to be marked as _`IsInput`_ for Generative Design to recognize them.
+U and V Point values are used to move the sphere across the surface. Because these values are the driving inputs, they need to be marked as 'IsInput' for Generative Design to recognize them.
 
 ![](../../.gitbook/assets/applychanges2.png)
 
-In order to know when the sphere is at the highest peak, a measure of the Z value is made every time the sphere moves - this represents the _`fitness value`_.
+In order to know when the sphere is at the highest peak, a measure of the Z value is made every time the sphere moves - this represents the fitness value.
 
 When running this graph in Generative Design, follow these steps:
 
-1. Use the _`Optimize`_ generation method.
+1. Use the 'Optimize' generation method.
 2. Under 'Inputs', make sure that all inputs are checked.
-3. Under 'Outputs', set the _`Point Z value (Height)`_ to _`Maximize`_. If you want the lowest point, set it to_`Minimize`_ . 
+3. Under 'Outputs', set the 'Z Point Value' to 'Maximize' . If you want the lowest point, set it to 'Minimize' . 
 4. Under 'Settings', input your 'Population Size' and the number of 'Generations' you want.  
 5. Under 'Issues', resolve any items.
 6. Click 'Generate' to run the optimization process.

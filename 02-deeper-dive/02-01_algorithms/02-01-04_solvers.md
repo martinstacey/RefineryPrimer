@@ -18,21 +18,21 @@ A solver can use different methods to process these scripts in different ways. T
 
 ## Optimize
 
-'Optimize' is the method for doing an optimization run with Generative Design. During an optimization run, Generative Design will develop the design based on the evaluators outputs. 
+'Optimize' is the method for doing an optimization run with Generative Design. During an optimization run, Generative Design will develop the design based on the evaluator's outputs. 
 
-The optimization process works by creating multiple generations of a design, where each iteration will use the input configuration from previous generation to optimize the new design options.
+The optimization process works by creating multiple 'generations' \(or iterations\) of a design, where each iteration will use the input configuration from previous generation to optimize the new design options.
 
 ![](../../.gitbook/assets/solvers3.png)
 
 ## Cross Product
 
-'Cross Product' lets you explore the entire design space of your design by combining each step of every parameter with the remaining parameters.
+'Cross Product' lets you explore the entire design space of your design by combining each step of every parameter with the other parameters available.
 
 ![](../../.gitbook/assets/solvers4.png)
 
 ## Like This
 
-'Like This' will make Generative Design apply slight variations to your current input configuration. Using this method lets you explore different variations of a design that you already like.
+'Like This' will make Generative Design apply slight variations to your current input configuration. Using this method, you can explore different variations of a design that you already like.
 
 ![](../../.gitbook/assets/solvers5.png)
 

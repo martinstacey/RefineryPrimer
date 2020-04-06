@@ -1,14 +1,16 @@
 # What Is a Genetic Algorithm?
 
-A genetic algorithm - specifically _`NSGA-II`_ \([https://www.iitk.ac.in/kangal/Deb\_NSGA-II.pdf](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf)\), is a kind of _`optimization algorithm`_ that is popular in generative design applications. Genetic algorithms tend to be very useful when your objective function is highly complex, subject to randomness, or is discontinuous. 
+A genetic algorithm - specifically [NSGA II](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf) - is a kind of optimization algorithm that is popular in generative design applications. 
 
-In technical terms, it is an example of an 'adaptive heuristic algorithm'. You might also hear it referred to as an 'evolutionary algorithm'. 
+Genetic algorithms tend to be very useful when your objective function is highly complex, subject to randomness, or is discontinuous. 
+
+In technical terms, it is an example of an 'adaptive heuristic algorithm'. You might also hear it referred to as an 'evolutionary algorithm' - this is because genetic algorithms were inspired by the process of evolution by natural selection. 
+
+In a genetic algorithm, the 'fittest' individuals \(or the potential solutions\) from a 'population' of possible solutions are selected for reproduction and their 'genes' are passed on to future 'generations'.
 
 ![](../../.gitbook/assets/whatisgenetic1.png)
 
-Genetic algorithms were inspired by the process of evolution by natural selection. In a genetic algorithm, the 'fittest' individuals - or the potential solutions - are selected for reproduction and their 'genes' are passed on to future generations. 
-
-When doing generative design, these _'_genes' as the parameters of our model. These are the values that drive our design and will either consist of a single value or a range of acceptable values.
+In generative design processes, the _'_genes' are the parameters of our model. These are the values that drive our design and will either consist of a single value or a range of acceptable values.
 
 ![](../../.gitbook/assets/whatisgenetic2.png)
 
@@ -22,5 +24,5 @@ A typical genetic algorithm has five phases:
 
 ![](../../.gitbook/assets/whatisgenetic3.png)
 
-Each of these phases repeats itself over generations, where each generation will use the data generated in the previous generation to inform the next. Each generation consists of a population of possible solutions.
+Each of these phases repeats itself over generations \(or iterations\), where each iteration uses the data from the previous generation to inform the next. 
 

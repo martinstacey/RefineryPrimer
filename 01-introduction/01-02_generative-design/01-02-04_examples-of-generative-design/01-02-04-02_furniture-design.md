@@ -2,7 +2,7 @@
 
 Looking at a simpler example, let's consider the process of designing a typical, four-legged table.
 
-Using a standard approach, you as the designer would manually define the length, width, height and material of the table. The resulting output is a single, physical object with a fixed, immutable form. Perhaps you could tests several distinct sets of dimensions and material combinations, resulting in three or four prototypes.
+Using a standard approach, you as the designer would manually define the length, width, height and material of the table. The resulting output is a single, physical object with a fixed, immutable form. Here, you have the option to test several distinct sets of dimensions and material combinations to end up with three or four prototypes \(or however many iterations you wanted\).
 
 ![](../../../.gitbook/assets/furn1.png)
 
@@ -14,13 +14,15 @@ In a generative design approach, you would instead create an algorithm that spec
 
 ## Generate
 
-Then, you would use a computer to run the algorithm and generate a series of designs falling within the ranges you previously specified. Some designs will be short and wide, others will be tall and thin, but each will satisfy the user-defined constraints. This is key, as many designs can be generated very quickly, much more than any human could feasibly examine.
+Then, you would use a computer to run the algorithm and generate a series of designs that fall within the ranges you previously specified. 
+
+Some designs will be short and wide, others will be tall and thin, but each will satisfy the user-defined constraints. This is key, as many designs can be generated very quickly, much more than any human could feasibly examine.
 
 ![](../../../.gitbook/assets/furn2.png)
 
 > Let's imagine the computer looked at 20 different values for each of: length, width, height, table/leg material combinations. The resulting solution space would be 20\*20\*20\*20 = 160,000 designs, which is way too many options for a person to reasonably evaluate.
 
-_Above: matrix showing 36 generated table designs, varying width, length, and height_
+_Above: Matrix showing 36 generated table designs, varying width, length, and height._
 
 ## Evaluate
 
@@ -34,14 +36,14 @@ Let's see how different design goals could be expressed in this _`evaluation`_ s
 
 | Design goal | Analysis method | Ranking method |
 | :--- | :--- | :--- |
-| lowest cost per desk, with minimum 800mm x 600mm size | esk size: at least 800mm x 600mm in size = _`yes/no`_   and  desk cost: area \* material cost/m² = currency _`$`_ value\) | lowest cost first and only options that satisfy area requirements |
+| lowest cost per desk, with minimum 800mm x 600mm size | desk size: at least 800mm x 600mm in size = _`yes/no`_   and  desk cost: area \* material cost/m² = currency _`$`_ value\) | lowest cost first and only options that satisfy area requirements |
 | most profitable  \(largest desk area with lowest material cost\) | desk area = outputs m²  and  unit cost \(area \* material cost/m²\) = currency _`$`_ value | largest area and lowest cost |
 
 The matrix above exemplifies how you can use this stage in the generative design process to design for wildly different scenarios.
 
-In the first scenario, lowest overall cost is the driving goal, so we can expect small desk sizes and cheap materials, while still satisfying the size requirement. This scenario would be relatively simple for humans to replicate, so generative design would only come in handy when the variation or complexity of material costs is high.
+In the first scenario, lowest overall cost is the driving goal, so we can expect small desk sizes and cheap materials while still satisfying the size requirement. This scenario would be relatively simple for humans to replicate, so generative design would only come in handy when the variation or complexity of material costs is high.
 
-For the second scenario, we're optimizing for overall Return on Investment \(ROI\) for each desk. This means that we can expect larger, more expensive desks than the first scenario, but that also have the best overall ROI. It wouldn't be unexpected for this process to identify a desk with cheap legs and costlier tabletop materials as a viable option.
+For the second scenario, we're aiming to maximize return on investment \(ROI\) for each desk. This means that we can expect larger, more expensive desks than the first scenario, but that still have the best overall ROI. It wouldn't be unexpected for this process to identify a desk with cheap legs and more expensive tabletop materials as a viable option. 
 
 This second scenario is a good illustration of using generative design to work towards multiple and competing goals, which is very hard for humans to replicate.
 

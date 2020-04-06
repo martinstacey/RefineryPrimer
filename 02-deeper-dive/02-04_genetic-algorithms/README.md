@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/genetic.png)
 
-In this section, we’ll look at the term _`Generative Algorithm`_
+In this section, we’ll look at genetic algorithms.
 
 We will cover the following:
 
