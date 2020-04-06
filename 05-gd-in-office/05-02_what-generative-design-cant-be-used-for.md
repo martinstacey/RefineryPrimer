@@ -1,6 +1,6 @@
 # What Can't Generative Design Be Used for?
 
-<img src="../.gitbook/assets/whatgdcantbeusedfor1.png" style="width:200px;"/>
+![](../.gitbook/assets/whatgdcantbeusedfor1.png)
 
 If you want to implement Generative Design for Revit in your office, it's important to understand what it can and cannot do, and to communicate this information correctly to your team. 
 
@@ -14,7 +14,7 @@ Guiding a team into allocating the appropriate amount of time and effort into th
 
 ### **Obvious Solutions**
 
-<img src="../.gitbook/assets/whatgdcantbeusedfor2.png" style="width:200px;"/>
+![](../.gitbook/assets/whatgdcantbeusedfor2.png)
 
 One of the advantages of Generative Design is that it can help you clarify multi-dimensionality and complexities that go way beyond human understanding. 
 
@@ -24,7 +24,7 @@ _Note: If your problem has obvious solutions then you may need more variables._
 
 ### Confusing Visual Programming Problems with Generative Design Problems
 
-<img src="../.gitbook/assets/whatgdcantbeusedfor3.png" style="width:200px;"/>
+![](../.gitbook/assets/whatgdcantbeusedfor3.png)
 
 Even though Generative Design works with Dynamo, it is important to differentiate between problems that need an automated process and problems that need exploration. 
 
@@ -32,7 +32,7 @@ As a rule of thumb, if you intend to solve a problem that deals with automation,
 
 ### Incorrectly Defined Problems
 
-<img src="../.gitbook/assets/whatgdcantbeusedfor4.png" style="width:200px;"/>
+![](../.gitbook/assets/whatgdcantbeusedfor4.png)
 
 A generative design problem always needs a set of variables or inputs. These inputs are manipulated by the user and their variation should result in a design space to explore. 
 
@@ -40,7 +40,7 @@ If these variables are too limited, Generative Design won't be able to offer a v
 
 ### No Clear Relationship Between Variables and Intention
 
-<img src="../.gitbook/assets/whatgdcantbeusedfor5.png" style="width:200px;"/>
+![](../.gitbook/assets/whatgdcantbeusedfor5.png)
 
 Unfortunately, Generative Design cannot create design parameters for you. It would be similar to asking Google for the meaning of life. 
 

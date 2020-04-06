@@ -10,13 +10,13 @@ The design grid shows each option as a 3D geometrical thumbnail that can be indi
 
 The order of the thumbnails can be sorted based on the inputs or outputs of the Dynamo script, with a toggle for both ascending and descending values.
 
-<img src="../.gitbook/assets/visualize1.png" style="width:200px;"/>
+![](../.gitbook/assets/visualize1.png)
 
 ## Design Table
 
 The design table replaces the design grid. If chosen, it lists each option in a table form with each column representing the values for the inputs and outputs.
 
-<img src="../.gitbook/assets/visualize2.png" style="width:200px;"/>
+![](../.gitbook/assets/visualize2.png)
 
 ## Scatterplot
 
@@ -26,7 +26,7 @@ Generative Design allows you to select which values are displayed along both the
 
 Selecting a circle from the graph space will also highlight the chosen option in the design grid or design table.
 
-<img src="../.gitbook/assets/visualize3.png" style="width:200px;"/>
+![](../.gitbook/assets/visualize3.png)
 
 ## Parallel Coordinates
 
@@ -34,7 +34,7 @@ The other chart available in Explore Outcomes is a _`Parallel Coordinates`_ grap
 
 The graph can be filtered by dragging the selection on each vertical axis.
 
-<img src="../.gitbook/assets/visualize4.png" style="width:200px;"/>
+![](../.gitbook/assets/visualize4.png)
 
 ## Choosing the Right Visualization
 

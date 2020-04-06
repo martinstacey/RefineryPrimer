@@ -2,7 +2,7 @@
 
 ## Description
 
-<img src="../../.gitbook/assets/workflowrandom2.gif" style="width:200px;"/>
+![](../../.gitbook/assets/workflowrandom2%20%282%29.gif)
 
 This graph will generate a series of scenes with different entourage elements. Entourage elements are placed in clusters that imitate the organic positioning of random elements within a space. 
 
@@ -49,7 +49,7 @@ The script will begin by extracting the surface of a room. This room will be use
 
 The results in Explore Outcomes will display the surface of the room selected, the point of interest and the entourage elements as lines. We suggest you combine this with the 3d view used so that you get results as you export them to Revit.
 
-<img src="../../.gitbook/assets/workflowrandom3.gif" style="width:200px;"/>
+![](../../.gitbook/assets/workflowrandom3%20%281%29.gif)
 
 ## Evaluation
 
@@ -67,7 +67,7 @@ Once generation has completed, the results can be explored through the tables an
 
 The image below shows an example output from a randomized study based on 40 solutions.
 
-<img src="../../.gitbook/assets/workflowrandom4.png" style="width:200px;"/>
+![](../../.gitbook/assets/workflowrandom4.png)
 
 ## A More Organic Random Using Gaussian Distribution
 
@@ -75,7 +75,7 @@ One of the key elements to understand when placing elements randomly is Gaussian
 
 By using Gaussian normal distribution instead of the regular, randomized method you can control the clustering of elements so that your placement will feel more organic.
 
-<img src="../../.gitbook/assets/workflowrandom1.jpg" style="width:200px;"/>
+![](../../.gitbook/assets/workflowrandom1.jpg)
 
 For further reading on this, please refer to the following website:
 

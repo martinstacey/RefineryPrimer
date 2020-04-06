@@ -6,7 +6,7 @@ As a general rule for developing good generative design workflows:
 
 To guide you through this process, below you'll find a helpful framework with notes, questions and pointers. This is by no means an exhaustive list, so feel free to make it your own - and maybe even contribute to this primer!
 
-<img src="../../.gitbook/assets/good1.png" style="width:200px;"/>
+![](../../.gitbook/assets/good1.png)
 
 ## Step 1: Define Your Problem
 
@@ -19,7 +19,7 @@ Have a clear understanding of what you want to achieve, asking yourself:
 * What makes the design a success or a failure?
 * What aspects would you like to maximize or minimize?
 
-<img src="../../.gitbook/assets/good2.png" style="width:200px;"/>
+![](../../.gitbook/assets/good2.png)
 
 Answering these questions will not only clarify the problem in your mind but it will also help break the problem into smaller components that will be used in each stage of the generative design process. 
 
@@ -39,7 +39,7 @@ Start with the end design in mind. Think about what you want to achieve and work
 
 Don't be afraid to draw, diagram, mind-map or use any other technique you prefer to help you document the following.
 
-<img src="../../.gitbook/assets/good3.png" style="width:200px;"/>
+![](../../.gitbook/assets/good3.png)
 
 For the **generate** phase:
 
@@ -70,7 +70,7 @@ Now you need to consider your overall process - the constants and variables in y
 * Be aware of 'the curse of dimensionality'. Don't over-complicate your generative design process by adding too many initial inputs and outputs. Instead, start with the minimal needed inputs and gradually add more if needed as you become more aware of what your design needs.
 * Think about your goals for this step. What do you need to measure? Will the output affect next steps? If so, how?
 
-<img src="../../.gitbook/assets/good4.png" style="width:200px;"/>
+![](../../.gitbook/assets/good4.png)
 
 ## Step 4: Determine Evaluation Criteria
 
@@ -78,7 +78,7 @@ This step will help you to target what you're most interested in discovering. Ha
 
 Without anything to evaluate, the generative process will produce a random and arbitrary set of designs that may not be useful to any designer.
 
-<img src="../../.gitbook/assets/good5.png" style="width:200px;"/>
+![](../../.gitbook/assets/good5.png)
 
 Importantly, even though adding more evaluation criteria may seem counter-intuitive as it makes the process more complex \(as there is now an unavoidable trade-off that must be considered\), it also means that what will be produced from it will be more realistic and relevant to your needs. 
 
@@ -96,5 +96,5 @@ To get the most out of your generative design process, it's important to remembe
 * What do you want to do with the results? What's the next step?
 * Does generative process happen only once or does it repeat? If it repeats, what changes between iterations and what can be learnt from previous ones?
 
-<img src="../../.gitbook/assets/good6.png" style="width:200px;"/>
+![](../../.gitbook/assets/good6.png)
 

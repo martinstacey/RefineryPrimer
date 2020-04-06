@@ -2,7 +2,7 @@
 
 This section will explore a series of workflows that can be found in the _`07-00_sample_files`_ folder in the Github repository.
 
-<img src="../.gitbook/assets/sample.png" style="width:200px;"/>
+![](../.gitbook/assets/sample.png)
 
 The following sample workflows are available:
 

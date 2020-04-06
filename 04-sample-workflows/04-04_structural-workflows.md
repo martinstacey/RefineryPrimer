@@ -1,6 +1,6 @@
 # Structural Workflows
 
-<img src="../.gitbook/assets/workflows2.png" style="width:200px;"/>
+![](../.gitbook/assets/workflows2.png)
 
 Coming Soon!
 

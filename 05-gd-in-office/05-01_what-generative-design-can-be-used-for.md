@@ -1,6 +1,6 @@
 # What Can Generative Design Be Used for?
 
-<img src="../.gitbook/assets/whatgdcanbeusedfor.png" style="width:200px;"/>
+![](../.gitbook/assets/whatgdcanbeusedfor.png)
 
 Generative design helps with common design problems that don't have a single, clear solution. As designers, we often encounter problems like this that have more than one possible solution, complex inter-dependencies, and/or contradictory requirements. 
 

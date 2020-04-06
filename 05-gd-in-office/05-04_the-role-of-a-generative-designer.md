@@ -6,7 +6,7 @@ The role can involve one or more people, so it is important to define their resp
 
 ## Identifying the Possible Problems
 
-<img src="../.gitbook/assets/therole1.png" style="width:200px;"/>
+![](../.gitbook/assets/therole1.png)
 
 Although identifying a possible problem for generative design may seem like a straightforward task, making sure that the problem contains certain characteristics that are worth solving may cause this responsibility to become more complex. 
 
@@ -14,7 +14,7 @@ Some of the criteria that should be considered include: making sure the problem 
 
 ## Workflow Creation
 
-<img src="../.gitbook/assets/therole2.png" style="width:200px;"/>
+![](../.gitbook/assets/therole2.png)
 
 Workflow creation deals with the nuts and bolts of generative design. This person would be responsible for creating the actual workflow and relations for variables, results and evaluation criteria. 
 
@@ -22,7 +22,7 @@ The ideal candidate for this role would be skilled in Dynamo and visual programm
 
 ## Evaluation
 
-<img src="../.gitbook/assets/therole3.png" style="width:200px;"/>
+![](../.gitbook/assets/therole3.png)
 
 Ideally, this would be someone outside of the generative design process - someone who is aware of the team needs who can be more objective in evaluating how useful, relevant and efficient the generative design workflows were.
 

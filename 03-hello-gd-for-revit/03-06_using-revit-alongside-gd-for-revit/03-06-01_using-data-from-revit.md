@@ -8,5 +8,5 @@ However, we are aware that many use-cases of Generative Design will use models f
 
 To make this work, when Generative Design is installed in Dynamo, it includes a custom package containing a single node called _`Data.Remember`_.
 
-<img src="../../.gitbook/assets/dataremember.png" style="width:200px;"/>
+![](../../.gitbook/assets/dataremember.png)
 

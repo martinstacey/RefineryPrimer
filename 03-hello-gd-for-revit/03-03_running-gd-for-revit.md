@@ -17,7 +17,7 @@ To run an optioneering process, follow these steps:
 7. Under 'Issues', resolve any items.
 8. Finally, click 'Generate' to run your optioneering process.
 
-<img src="../.gitbook/assets/running1.png" style="width:200px;"/>
+![](../.gitbook/assets/running1.png)
 
 ## How to Run an Optimization Process
 
@@ -35,5 +35,5 @@ To run an optimization process in Generative Design, follow these steps:
 6. Under 'Settings', set the amount of generations you want to create. Remember that each new generation is a range of options that falls between the two best designs from the previous generation.
 7. Finally, click 'Generate' to run your optimization process.
 
-<img src="../.gitbook/assets/running2.png" style="width:200px;"/>
+![](../.gitbook/assets/running2.png)
 

@@ -6,9 +6,9 @@ It can hold both non-geometric data \(such as strings and numbers\) and geometri
 
 Currently, the node is limited to these data types. Attempting to pass through other data, such as a collection of Revit Elements, Generative Design will return an error saying 'cannot store data of type'.
 
-<img src="../../.gitbook/assets/remembernodeinputs1.png" style="width:200px;"/>
+![](../../.gitbook/assets/remembernodeinputs1.png)
 
 So, when you run the node inside Dynamo for Revit, the values will be stored. This means that, when you re-open your graph, this 'temporary data' will still be available to you - it will flow downstream from the Data.Remember node as if it had come directly from the execution of the nodes that were upstream.
 
-<img src="../../.gitbook/assets/remembernodeinputs2.png" style="width:200px;"/>
+![](../../.gitbook/assets/remembernodeinputs2.png)
 

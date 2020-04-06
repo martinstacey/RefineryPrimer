@@ -1,6 +1,6 @@
 # Genetic Algorithms
 
-<img src="../../.gitbook/assets/genetic.png" style="width:200px;"/>
+![](../../.gitbook/assets/genetic.png)
 
 In this section, we’ll look at genetic algorithms.
 

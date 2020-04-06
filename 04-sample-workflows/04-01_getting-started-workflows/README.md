@@ -1,6 +1,6 @@
 # Getting Started Workflows
 
-<img src="../../.gitbook/assets/beginer.png" style="width:200px;"/>
+![](../../.gitbook/assets/beginer.png)
 
 This section will run through some simple workflows to get you started with generative design workflows:
 

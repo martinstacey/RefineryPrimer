@@ -1,6 +1,6 @@
 # Algorithms
 
-<img src="../../.gitbook/assets/algorithm.png" style="width:200px;"/>
+![](../../.gitbook/assets/algorithm.png)
 
 In this chapter, we'll learn about:
 

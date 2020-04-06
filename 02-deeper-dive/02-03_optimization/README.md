@@ -1,6 +1,6 @@
 # Optimization
 
-<img src="../../.gitbook/assets/optimization.png" style="width:200px;"/>
+![](../../.gitbook/assets/optimization.png)
 
 In this chapter, we’ll look at:
 

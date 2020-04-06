@@ -1,6 +1,6 @@
 # Other Techniques
 
-<img src="../.gitbook/assets/othertechniques.png" style="width:200px;"/>
+![](../.gitbook/assets/othertechniques.png)
 
 There are many techniques that can be used to tackle a Computational Design problem.
 

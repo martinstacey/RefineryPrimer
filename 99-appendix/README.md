@@ -2,5 +2,5 @@
 
 The appendix chapter provides a series of useful links and external resources for additional reading.
 
-<img src="../.gitbook/assets/appendix.png" style="width:200px;"/>
+![](../.gitbook/assets/appendix.png)
 

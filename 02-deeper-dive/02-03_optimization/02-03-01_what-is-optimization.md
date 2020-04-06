@@ -1,6 +1,6 @@
 # What Is Optimization?
 
-<img src="../../.gitbook/assets/whatisoptimization.png" style="width:200px;"/>
+![](../../.gitbook/assets/whatisoptimization.png)
 
 Optimization is an inherently mathematical subject. It is about maximizing or minimizing some mathematical function to arrive at the best possible solution to a problem, and involves creating design options that are shaped by certain outcomes as they are being created.
 

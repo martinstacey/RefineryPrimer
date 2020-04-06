@@ -1,6 +1,6 @@
 # Generators
 
-<img src="../../.gitbook/assets/generators1.png" style="width:200px;"/>
+![](../../.gitbook/assets/generators1.png)
 
 Generators are the logic pathways that create new potential solutions in a generative design approach. In other words, they are the engine of the algorithm - they give the rest of the program something to evaluate.
 
@@ -12,5 +12,5 @@ In the simple Dynamo example below, the highlighted node acts as the generator a
 
 When the values change and the programme is re-run, the generator node is called into action again to create a new design option. In a generative design process, this generator could be a single function or a series of functions pieced together that produce hundreds - or even thousands - of different options.
 
-<img src="../../.gitbook/assets/generators2.png" style="width:200px;"/>
+![](../../.gitbook/assets/generators2.png)
 

@@ -4,7 +4,7 @@ We want the community to submit their generative design case studies to this pri
 
 This chapter will showcase these examples so they are available for the wider community.
 
-<img src="../../.gitbook/assets/comunity.png" style="width:200px;"/>
+![](../../.gitbook/assets/comunity.png)
 
 In this section, we will look at:
 

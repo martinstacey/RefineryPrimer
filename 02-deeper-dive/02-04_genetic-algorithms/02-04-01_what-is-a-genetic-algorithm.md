@@ -8,11 +8,11 @@ In technical terms, it is an example of an 'adaptive heuristic algorithm'. You m
 
 In a genetic algorithm, the 'fittest' individuals \(or the potential solutions\) from a 'population' of possible solutions are selected for reproduction and their 'genes' are passed on to future 'generations'.
 
-<img src="../../.gitbook/assets/whatisgenetic1.png" style="width:200px;"/>
+![](../../.gitbook/assets/whatisgenetic1.png)
 
 In generative design processes, the _'_genes' are the parameters of our model. These are the values that drive our design and will either consist of a single value or a range of acceptable values.
 
-<img src="../../.gitbook/assets/whatisgenetic2.png" style="width:200px;"/>
+![](../../.gitbook/assets/whatisgenetic2.png)
 
 A typical genetic algorithm has five phases:
 
@@ -22,7 +22,7 @@ A typical genetic algorithm has five phases:
 4. [Crossover / Reproduction](02-04-05_crossover-phase.md)
 5. [Mutation ](02-04-06_mutation-phase.md)
 
-<img src="../../.gitbook/assets/whatisgenetic3.png" style="width:200px;"/>
+![](../../.gitbook/assets/whatisgenetic3.png)
 
 Each of these phases repeats itself over generations \(or iterations\), where each iteration uses the data from the previous generation to inform the next. 
 

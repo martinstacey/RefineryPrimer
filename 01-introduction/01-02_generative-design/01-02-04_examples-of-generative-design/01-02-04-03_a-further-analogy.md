@@ -4,7 +4,7 @@ Let’s now look at generative design through the lens of something most of us d
 
 In this example, let's say you’re looking to go from Brooklyn to Manhattan. You go to your favorite route-comparison website and ask it to find you the quickest route between these two locations.
 
-<img src="../../../.gitbook/assets/furth1.png" style="width:200px;"/>
+![](../../../.gitbook/assets/furth1.png)
 
 _Above: The Citymapper website showing possible routes between Brooklyn and Manhattan, while also considering multiple modes of transportation._
 
@@ -75,7 +75,7 @@ It's important to note that, because the computer knows about multiple modes of 
 
 For example, if we specified that we wanted to travel by car, or that we needed step-free access, the resulting routes would be completely different.
 
-<img src="../../../.gitbook/assets/furth2.png" style="width:200px;"/>
+![](../../../.gitbook/assets/furth2.png)
 
 _Above: Citymapper website showing routes that have step-free access._
 

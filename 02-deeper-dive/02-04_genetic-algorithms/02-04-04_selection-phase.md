@@ -6,7 +6,7 @@ This value is currently fixed in Generative Design and is not yet available as a
 
 Given this, it makes sense to select only those solutions with the best possible features for breeding.
 
-<img src="../../.gitbook/assets/selection1.png" style="width:200px;"/>
+![](../../.gitbook/assets/selection1.png)
 
 Remember that individuals with a higher fitness score have better genes \([see previous section for a detailed discussion of fitness and fitness functions](02-04-03_evaluation-phase.md)\).  
 

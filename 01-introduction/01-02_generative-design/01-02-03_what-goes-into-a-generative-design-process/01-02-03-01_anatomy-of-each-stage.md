@@ -6,7 +6,7 @@ Using this breakdown, let's look at what the_`generate`_ stage would entail.
 
 ### Define
 
-<img src="../../../.gitbook/assets/anatomy1.png" style="width:200px;"/>
+![](../../../.gitbook/assets/anatomy1.png)
 
 For the _`define`_ step, the designer will need to do the following:
 
@@ -19,13 +19,13 @@ With clear and concise logic, the computer can provide suitable outputs.
 
 ### Run
 
-<img src="../../../.gitbook/assets/anatomy2.png" style="width:200px;"/>
+![](../../../.gitbook/assets/anatomy2.png)
 
 Once everything is defined in the algorithm and its accompanying parameters, the computer begins to _`run`_, meaning it starts to generate different design options. This process might happen locally on the designer's computer or, for more intensive calculations, it may happen using cloud computing.
 
 ### Results
 
-<img src="../../../.gitbook/assets/anatomy3.png" style="width:200px;"/>
+![](../../../.gitbook/assets/anatomy3.png)
 
 The things that are generated during the _`run`_ step are the final outputs from each stage. These are then used as inputs or parameters in subsequent phases. 
 
@@ -35,7 +35,7 @@ For example, the designs created in the _`generate`_ phase will be used as one o
 
 We can map these stages and steps together in a single diagram, allowing us to visualize the order of each stage and their dependencies. 
 
-<img src="../../../.gitbook/assets/anatomy4.png" style="width:200px;"/>
+![](../../../.gitbook/assets/anatomy4.png)
 
 The diagram shows us that:
 

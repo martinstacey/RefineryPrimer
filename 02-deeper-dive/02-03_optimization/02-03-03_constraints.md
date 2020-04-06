@@ -1,6 +1,6 @@
 # Constraints
 
-<img src="../../.gitbook/assets/constrains.png" style="width:200px;"/>
+![](../../.gitbook/assets/constrains.png)
 
 A constraint is a condition that the solution of an optimization problem must satisfy. In the table example we saw earlier, the constraints could be:
 

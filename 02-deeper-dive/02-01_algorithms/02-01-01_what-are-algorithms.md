@@ -4,7 +4,7 @@ There's been a growing public interest in algorithms in recent years, and this s
 
 > A set of instructions that typically help to solve a problem.
 
-<img src="../../.gitbook/assets/whatarealgorithms.png" style="width:200px;"/>
+![](../../.gitbook/assets/whatarealgorithms.png)
 
 ## Algorithms in Generative Design
 
