@@ -2,7 +2,7 @@
 
 In this section we will discuss how generative design can be used within your office.
 
-![](../.gitbook/assets/gdinyouroffice.png)
+<img src="../.gitbook/assets/gdinyouroffice.png" style="width:200px;"/>
 
 We will look at the following:
 

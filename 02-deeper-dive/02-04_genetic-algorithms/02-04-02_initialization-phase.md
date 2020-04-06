@@ -6,13 +6,13 @@ Each 'individual' - or design option - in the population is a potential solution
 
 Some of these features are desirable, others are not. The algorithm leverages the differences between the design options to converge to the best possible solution.
 
-![](../../.gitbook/assets/initialization1.png)
+<img src="../../.gitbook/assets/initialization1.png" style="width:200px;"/>
 
 Importantly, a genetic algorithm always begins with a set of potential solutions. When doing generative design with Generative Design for Revit and Dynamo, this initial population is created randomly, based on a 'seed' of fundamental input data. 
 
 Often, a generative design algorithm is even used to create the initial population that can be fed into a genetic algorithm. In the initialization phase, it is important to consider how this initial population might vary. For example, if there is little or no variation in the population, then there is little chance that a good evolution will happen. 
 
-![](../../.gitbook/assets/initialization2.png)
+<img src="../../.gitbook/assets/initialization2.png" style="width:200px;"/>
 
 To ensure there is good variation in your initial population, it is important to remember ****the following:
 

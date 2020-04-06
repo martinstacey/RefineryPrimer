@@ -2,7 +2,7 @@
 
 In this section we will look at some other topics loosely related to generative design.
 
-![](../.gitbook/assets/nextsteps.png)
+<img src="../.gitbook/assets/nextsteps.png" style="width:200px;"/>
 
 In this section, we will look at:
 

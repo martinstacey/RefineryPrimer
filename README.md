@@ -2,7 +2,7 @@
 
 Welcome to the **Generative Design Primer**. This document aims to introduce AEC practitioners of all experience levels to an exciting, new approach to design: generative design workflows.
 
-![](.gitbook/assets/introgif.gif)
+<img src=".gitbook/assets/introgif.gif" style="width:200px;"/>
 
 ## About
 
@@ -16,7 +16,7 @@ This primer will help you to:
 
 Autodesk is working to **democratize technologies** that can help designers in the AEC industry automate the creation of design options and optimise those designs to achieve better outcomes.
 
-![](.gitbook/assets/whyprimer.png)
+<img src=".gitbook/assets/whyprimer.png" style="width:200px;"/>
 
 Using these technologies requires new skills and new ways to think about design. We created this primer to explain the terminology, ideas and methods you'll need to begin using generative design workflows and tools that support it.
 
@@ -24,7 +24,7 @@ _Note: There are many different applications of generative design/art and this p
 
 **matterlab** was commissioned to kick-start the development of this primer. We thank them for all their efforts in establishing this valuable resource.
 
-[![](.gitbook/assets/matterlab-logo.jpg)](https://www.matterlab.co/)
+[<img src=".gitbook/assets/matterlab-logo.jpg" style="width:200px;"/>](https://www.matterlab.co/)
 
 ## Open-Source
 

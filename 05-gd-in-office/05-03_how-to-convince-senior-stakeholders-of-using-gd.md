@@ -1,6 +1,6 @@
 # How to Convince Senior Stakeholders of Using Generative Design
 
-![](../.gitbook/assets/howtoconvince1.png)
+<img src="../.gitbook/assets/howtoconvince1.png" style="width:200px;"/>
 
 One of the main goals of Generative Design for Revit is to make generative design \(as a process\) more accessible and functional to all people within the AEC industry. 
 
@@ -14,13 +14,13 @@ Below are some tips that may help you talk to senior stakeholders and people out
 
 ### Focus on Practical Issues Local to Your Practice
 
-![](../.gitbook/assets/howtoconvince2.png)
+<img src="../.gitbook/assets/howtoconvince2.png" style="width:200px;"/>
 
 Instead of focusing on the all the potential benefits generative design can offer, start by thinking of day-to-day concerns it may be able to help you with. Think about what is stopping your team from being more productive and ask if generative design can help you solve it.
 
 ### Start with Easy Problems
 
-![](../.gitbook/assets/howtoconvince3.png)
+<img src="../.gitbook/assets/howtoconvince3.png" style="width:200px;"/>
 
 Start with small, easy problems before tackling bigger, more complex problems. 
 
@@ -28,13 +28,13 @@ Try to break complex problems into simpler, more generic problems so that the ti
 
 ### Make Reasonable Time Frames for Solving a Problem
 
-![](../.gitbook/assets/howtoconvince4.png)
+<img src="../.gitbook/assets/howtoconvince4.png" style="width:200px;"/>
 
 Every problem you intend to solve should have an estimated time-frame and cost defined. This will make it easier to evaluate which problems are worth tackling initially and which problems will have the highest return on investment \(ROI\).
 
 ### Don't Oversell It
 
-![](../.gitbook/assets/howtoconvince5.png)
+<img src="../.gitbook/assets/howtoconvince5.png" style="width:200px;"/>
 
 As mentioned in the section '[What Can't Generative Design Be Used for?](05-02_what-generative-design-cant-be-used-for.md)', it is important to manage expectations when it comes to talking about generative design's capabilities to ensure that people have a clear understanding of what it is for and how it can help.
 

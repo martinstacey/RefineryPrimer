@@ -54,13 +54,13 @@ A title block will help the user identify all the requirements needed to run the
 
 > You can copy a panel from an existing document and change the information in it so it suits your workflow
 
-![](../../.gitbook/assets/guidelines1.png)
+<img src="../../.gitbook/assets/guidelines1.png" style="width:200px;"/>
 
 ### Organize Nodes Into Groups
 
 Organizing nodes into groups will help the user to understand how the workflow is structured. Groups should have comments that indicate the general purpose of the group of nodes.
 
-![](../../.gitbook/assets/guidelines2.png)
+<img src="../../.gitbook/assets/guidelines2.png" style="width:200px;"/>
 
 ### Follow Color Guidelines
 
@@ -68,21 +68,21 @@ We use a consistent color pallet through out our workflows. Don't forget to use 
 
 #### Inputs - Pink
 
-![](../../.gitbook/assets/guidelines3.png)
+<img src="../../.gitbook/assets/guidelines3.png" style="width:200px;"/>
 
 #### Generators - Green
 
-![](../../.gitbook/assets/guidelines4.png)
+<img src="../../.gitbook/assets/guidelines4.png" style="width:200px;"/>
 
 #### Display - Blue
 
-![](../../.gitbook/assets/guidelines5.png)
+<img src="../../.gitbook/assets/guidelines5.png" style="width:200px;"/>
 
 #### Metrics - Orange
 
-![](../../.gitbook/assets/guidelines6.png)
+<img src="../../.gitbook/assets/guidelines6.png" style="width:200px;"/>
 
 #### Remember/Gate - Purple
 
-![](../../.gitbook/assets/guidelines7.png)
+<img src="../../.gitbook/assets/guidelines7.png" style="width:200px;"/>
 

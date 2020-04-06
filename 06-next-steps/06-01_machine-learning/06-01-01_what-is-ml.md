@@ -1,6 +1,6 @@
 # What is Machine Learning?
 
-![](../../.gitbook/assets/whatisml1.png)
+<img src="../../.gitbook/assets/whatisml1.png" style="width:200px;"/>
 
 Machine learning \(ML\) has become an area of interest over the last few years. From virtual assistants to financial data interpretation, ML has become an important tool in creating models to explain data behaviour. 
 
@@ -27,7 +27,7 @@ Rather than trying to define ML here, we suggest that you visit the following si
 
 Machine learning \(in this context\) is a way of analysing data and using it to predict future behaviours.
 
-![](../../.gitbook/assets/whatisml2.png)
+<img src="../../.gitbook/assets/whatisml2.png" style="width:200px;"/>
 
 ### So Why the Big Hype?
 

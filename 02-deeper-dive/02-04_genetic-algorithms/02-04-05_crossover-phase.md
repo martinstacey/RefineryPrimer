@@ -4,7 +4,7 @@ The 'crossover phase' is is the breeding stage. Crossover can be very complex bu
 
 The new offspring will have a combination of both parents' features.
 
-![](../../.gitbook/assets/crossover.png)
+<img src="../../.gitbook/assets/crossover.png" style="width:200px;"/>
 
 The goal, of course, is for the offspring to be fitter than their parents. In general, after each round of breeding, the average fitness score of the population will have increased, although this is by no means guaranteed. 
 

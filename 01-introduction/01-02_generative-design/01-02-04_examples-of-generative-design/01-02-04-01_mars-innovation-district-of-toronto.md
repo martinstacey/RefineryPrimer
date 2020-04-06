@@ -6,7 +6,7 @@ Starting with high-level goals and constraints, the design team used the power o
 
 ## Generate
 
-![](../../../.gitbook/assets/mars1.png)
+<img src="../../../.gitbook/assets/mars1.png" style="width:200px;"/>
 
 > _Above: Design goals - Mars Innovation District - The Living_
 
@@ -16,7 +16,7 @@ Using this algorithm, the computer varied the parameters to produce thousands of
 
 ## Evaluate
 
-![](../../../.gitbook/assets/mars2.jpg)
+<img src="../../../.gitbook/assets/mars2.jpg" style="width:200px;"/>
 
 > _Above: Design option evaluated and selected- Mars Innovation District - The Living_
 
@@ -35,7 +35,7 @@ After the algorithms were formulated, the computer used them to evaluate each of
 
 ## Explore
 
-![](../../../.gitbook/assets/mars3.gif)
+<img src="../../../.gitbook/assets/mars3.gif" style="width:200px;"/>
 
 > _Above: Design Options - Mars Innovation District - The Living_
 

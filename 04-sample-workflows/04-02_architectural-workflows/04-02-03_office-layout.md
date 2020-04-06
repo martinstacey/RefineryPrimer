@@ -1,6 +1,6 @@
 # Office Layout
 
-![](../../.gitbook/assets/workflow31.gif)
+<img src="../../.gitbook/assets/workflow31.gif" style="width:200px;"/>
 
 ## Description
 
@@ -56,5 +56,5 @@ Designers can spend hours laying out repetitive areas such as offices and toilet
 
 Once generation has completed, the results can be explored through the  tables and graphs in the Explore Outcomes dialog. The image below shows an example output from a randomized study based on 35 solutions.
 
-![](../../.gitbook/assets/workflow32.png)
+<img src="../../.gitbook/assets/workflow32.png" style="width:200px;"/>
 

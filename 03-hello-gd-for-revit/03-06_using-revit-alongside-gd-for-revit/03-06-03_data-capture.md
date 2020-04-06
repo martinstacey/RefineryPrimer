@@ -13,12 +13,12 @@ To do this, follow the next steps:
 
 1. Save the graph and close Dynamo/Revit.
 
-![](../../.gitbook/assets/testrevit1.png)
+<img src="../../.gitbook/assets/testrevit1.png" style="width:200px;"/>
 
 2. Open DynamoSandbox and the graph you just created.  
 3. Re-run the graph. Everything upstream will become an unresolved node - bear in mind that the _`Data.Remember`_ node will retain the cached information.
 
-![](../../.gitbook/assets/testrevit2.png)
+<img src="../../.gitbook/assets/testrevit2.png" style="width:200px;"/>
 
 Now, Generative Design can use the data and geometry from Revit without needing to start Revit in the background each time.
 
