@@ -20,11 +20,11 @@ The tower will randomize heights, floor plate designs and orientations, allowing
 
 | Name | Description |
 | :--- | :--- |
-| Site offset | A number to define the offset from the site boundary |
+| Site offset \(mm\) | A number to define the offset from the site boundary |
 | Building height \(mm\) | Range for the total height of the tower |
 | Floor height \(mm\) | Range for the floor-to-floor height of the tower |
-| U Values | U Parameters at surface for the seven points that will create the base floor plate |
-| V Values | V Parameters at surface for the seven points that will create the base floor plate |
+| U Values \(%\) | U Parameters at surface for the seven points that will create the base floor plate |
+| V Values \(%\) | V Parameters at surface for the seven points that will create the base floor plate |
 
 ## Functions
 
@@ -38,9 +38,9 @@ With the geometry of the building generated, the script then evaluates the desig
 
 | Name | Description |
 | :--- | :--- |
-| Public realm area | The total area available at ground floor that sits outside of the floor plate but inside the site boundary |
-| Total building area | The total area of the entire building |
-| Lift provision area | The total area of the lifts required for the building |
+| Public realm area \(m2\) | The total area available at ground floor that sits outside of the floor plate but inside the site boundary |
+| Total building area \(m2\) | The total area of the entire building |
+| Lift provision area \(m2\) | The total area of the lifts required for the building |
 
 ## Visualization
 

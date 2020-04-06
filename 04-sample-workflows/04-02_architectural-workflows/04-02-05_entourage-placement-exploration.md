@@ -10,7 +10,7 @@ Begin by selecting a space/room, then the entourage elements \(people, trees, et
 
 This workflow is intended to be used with the 'Randomize' mode. Because of this, no optimization criteria is needed however some outputs are provided to give a better view of \(some of\) the attributes of each scene. 
 
-With this workflow you ca save time by quickly generating multiple scenes without having to manually place each element.
+With this workflow you can save time by quickly generating multiple scenes without having to manually place each element.
 
 The sample files for this example can be found in the `PROVIDE LINK` folder in the Github repository.
 
@@ -20,15 +20,14 @@ The sample files for this example can be found in the `PROVIDE LINK` folder in t
 | :--- | :--- |
 | Room | Room in which the entourage will be placed |
 | Families for entourage | Family instance for each element you want to include in your entourage |
-| 3D view | 3D view \(or perspective\) you'll be working in |
 
 ## Constraints
 
 | Name | Description |
 | :--- | :--- |
-| Min/Max cluster count | Range for number of clusters |
-| Min/Max spacing per cluster | Range of spacing per each cluster |
-| Min/Max elements per cluster | Range of number of elements per cluster |
+| Minimum /Maximum cluster count \(u\) | Range for number of clusters |
+| Minimum /Maximum spacing per cluster \(m\) | Range of spacing per each cluster |
+| Minimum /Maximum elements per cluster \(u\) | Range of number of elements per cluster |
 
 ## Variable inputs
 
@@ -48,7 +47,7 @@ The script will begin by extracting the surface of a room. This room will be use
 
 ## Visualization
 
-Generative Design will display the surface of the room selected, the point of interest and the entourage elements as lines. We suggest you combine this with the 3D view used so that you get results as you export them to Revit.
+Generative Design will display the surface of the room selected and the entourage elements as lines. We suggest you combine this with the 3D view used so that you get results as you export them to Revit.
 
 ![](../../.gitbook/assets/workflowrandom3%20%281%29.gif)
 
@@ -58,9 +57,8 @@ There is no optimization in this example, however some metrics will provide info
 
 | Name | Description |
 | :--- | :--- |
-| View obstructions | Size and proximity of elements to your camera |
-| Number of elements | Number of elements created in the scene |
-| Overall spacing | Distance between elements in the scene |
+| Number of elements \(u\) | Number of elements created in the scene |
+| Overall spacing \(mm\) | Distance between elements in the scene |
 
 ## Results
 

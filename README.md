@@ -28,7 +28,7 @@ _Note: There are many different applications of generative design/art and this p
 
 ## Open-Source
 
-This primer is an open-source project initiated by the **AEC Generative Design Team** at Autodesk. In this project, we are dedicated to providing high-quality content on Generative Design and generative design processes.
+This primer is an open-source project initiated by the **AEC Generative Design Team** at Autodesk. In this project, we are dedicated to providing high-quality content on Generative Design for Revit and the generative design processes.
 
 Contributions are of course welcome. You can contribute to the primer in the following ways:
 

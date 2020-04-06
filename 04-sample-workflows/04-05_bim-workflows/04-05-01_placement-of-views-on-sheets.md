@@ -15,8 +15,8 @@ By using Generative Design, we can find solutions that minimize the number of sh
 | Name | Description |
 | :--- | :--- |
 | Sheet title block | Title block that will be used for each sheet created |
-| Sheet margins \(right, left, top, bottom\) | Margins within the title block that determine the available sheet area in which the cropped views are placed. These four parameters are given to avoid placing views on top of title blocks. |
-| Viewport Margin | Individual margin for each view \(the right, left, top and bottom margins are equal\) |
+| Sheet margins \(mm\) \(right, left, top, bottom\) | Margins within the title block that determine the available sheet area in which the cropped views are placed. These four parameters are given to avoid placing views on top of title blocks. |
+| Viewport Margin \(mm\) | Individual margin for each view \(the right, left, top and bottom margins are equal\) |
 
 ## Variable inputs
 
@@ -38,7 +38,7 @@ Once all the views have been placed on sheets, the script evaluates the design b
 
 | Name | Description |
 | :--- | :--- |
-| Number of sheets | Total number of sheets created to accommodate all views |
+| Number of sheets \(u\) | Total number of sheets created to accommodate all views |
 | Sheet space not occupied \(%\) | Percentage of the space left over in the generated sheets |
 | Order percentage \(%\) | Percentage measuring how good the order is in the shuffled list of views |
 

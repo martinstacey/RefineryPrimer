@@ -25,9 +25,9 @@ As a result, each iteration can take a while to run. For the options where the m
 
 | Name | Description |
 | :--- | :--- |
-| Building rotation | The angle between 0° and 360° that will rotate the building from its initial position |
-| U value | U parameter from the site surface where the building will be located |
-| V value | V parameter from the site surface where the building will be located |
+| Building rotation \(degrees\) | The angle between 0° and 360° that will rotate the building from its initial position |
+| U value \(%\) | U parameter from the site surface where the building will be located |
+| V value \(%\) | V parameter from the site surface where the building will be located |
 
 ## Functions
 

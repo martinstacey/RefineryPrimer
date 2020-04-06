@@ -37,7 +37,7 @@ This graph will input a model element, a room and variables for placing a grid. 
 
 These values are used to create points along the room. The graph then determines how much each object's area of influence overlaps with one another, and with the perimeter of the room.
 
-Using optimization, the object's coverage is maximized while the total object overlap and the number of objects is minimized.
+Using optimization, the object's coverage and number of objects is maximized while the total object overlap is minimized.
 
 ## Evaluators
 

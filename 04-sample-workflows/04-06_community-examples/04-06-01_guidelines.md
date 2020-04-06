@@ -42,7 +42,7 @@ Example:`RAH_FloorsFromSolarAnalysis.zip`
   * a description of how the workflow works and why it is useful
   * an image of the workflow \(optional\)
   * links to files uploaded in the `Example_Files` folder.
-* Check the first workflow example \(High Performance Building Design Based on Daylight Analysis\) as a reference on how to upload files. 
+* Check the first workflow example \([High Performance Building Design Based on Daylight Analysis](04-06-02_list-of-examples.md)\) as a reference on how to upload files. 
 
 ## Dynamo Files: Basic Guidelines
 
