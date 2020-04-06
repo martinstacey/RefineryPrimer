@@ -19,7 +19,7 @@ All sample files for this example can be found in the \[PROVIDE LINK\] folder in
 | Minimum distance to wall | This sets a minimum value for the random seed to determine the distance from the object grid to the wall |
 | Maximum distance between objects | This sets a maximum value for the random seed to determine the distance between objects within the grid |
 
-\*Constraints for radius, minimum, and maximum values can only be changed using Dynamo.
+Constraints for radius, minimum, and maximum values can only be changed using Dynamo.
 
 ## Variable inputs
 
