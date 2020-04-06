@@ -8,7 +8,7 @@ The role can involve one or more people, so it is important to define their resp
 
 ![](../.gitbook/assets/therole1.png)
 
-Although identifying a possible problem for Generative Design may seem like a straightforward task, making sure that the problem contains certain characteristics that are worth solving may cause this responsibility to become more complex. 
+Although identifying a possible problem for generative design may seem like a straightforward task, making sure that the problem contains certain characteristics that are worth solving may cause this responsibility to become more complex. 
 
 Some of the criteria that should be considered include: making sure the problem is relevant to the scale of your office; framing problems so they can be reused in different contexts; and making sure the complexity of the problem is manageable by your generative design team.
 

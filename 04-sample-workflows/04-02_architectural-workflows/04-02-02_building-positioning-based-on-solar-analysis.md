@@ -55,13 +55,13 @@ The solar analysis is represented on the external surfaces of the building as a 
 
 ## Benefits of Using Generative Design
 
-Without Generative Design, in running this script in Dynamo the user would have to manually move the building until they finally managed to find the desired location and rotation. This process would take hours if not days \(unless they were incredibly lucky\). 
+Without automating the design option creation process,  running this script in Dynamo, the user would have to manually move the building until they finally managed to find the desired location and rotation. This process would take hours if not days \(unless they were incredibly lucky\). 
 
-As the aim in this example is simple \(finding the best location and rotation for either the minimum or maximum incidence\), Generative Design can be leveraged by using the 'Optimize' approach; larger site offset values would limit the space the building can move and so would also reduce the potential for it falling outside of the site boundary.
+As the aim in this example is simple \(finding the best location and rotation for either the minimum or maximum incidence\), the _`Optimize`_ method can be used; larger site offset values would limit the space the building can move and so would also reduce the potential for it falling outside of the site boundary.
 
 ## Results
 
-Once Generative Design has completed, the results can be explored through Generative Design's tables and graphs. 
+Once the study has completed, the results can be explored through the  tables and graphs in the Explore Outcomes dialog. 
 
 The image below shows an example output from an optimized study based on ten generations with a population of 20. The outputs were defined as minimized for both _`OUT_Area Out(m2)`_ and _`OUT_Avg.(kWh/m2)`_.
 

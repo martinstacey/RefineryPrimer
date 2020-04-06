@@ -1,29 +1,29 @@
 # Running Generative Design
 
-Generative Design can be run using different methods. In the Generative Design window, you can choose from four different Generation Methods, all of which are Generative Design's solvers \(find out more about this in the '[Solvers](../02-deeper-dive/02-01_algorithms/02-01-04_solvers.md)' section\).
+Studies can be run using different methods. In the Create Study window, you can chooses from four different Generation Methods \(find out more about this in the '[Solvers](../02-deeper-dive/02-01_algorithms/02-01-04_solvers.md)' section\).
 
-## How to Run an Optioneering Process Using Generative Design
+## How to Run an Optioneering Process 
 
 An optioneering process lets you explore all possible solutions that the graph can produce. Generative Design will generate the solutions based on the constraints that were defined in the Dynamo graph.
 
-To run an optioneering process in Generative Design, follow these steps:
+To run an optioneering process, follow these steps:
 
-1. Launch Generative Design from the Generative Design menu in Dynamo.
-2. Create a new study and select 'Randomize' as the generation method \(see the '[Solvers](../02-deeper-dive/02-01_algorithms/02-01-04_solvers.md)' section for more information\).
+1. Launch Create Study from the Generative Design menu in Dynamo.
+2. Create a new study and select _`Randomize`_ as the generation method \(see the '[Solvers](../02-deeper-dive/02-01_algorithms/02-01-04_solvers.md)' section for more information\).
 3. Under 'Inputs', make sure that all the desired inputs are present. For inputs that should not change on each run, set the desired value, and uncheck the box alongside it.
 4. Under 'Outputs', ensure each output defined in the graph is listed.  
-5. Under 'Settings', choose how many options you want Generative Design to create.
-6. Under 'Settings' select a random seed to begin the randomization with.
+5. Under 'Settings', choose how many options you want to create.
+6. Under 'Settings' select a random seed \(or, number\) to begin the randomization with.
 7. Under 'Issues', resolve any items.
 8. Finally, click 'Generate' to run your optioneering process.
 
 ![](../.gitbook/assets/running1.png)
 
-## How to Run an Optimization Process Using Generative Design
+## How to Run an Optimization Process
 
-An optimization process allows Generative Design to evolve your design to find the most suitable options based on the constraints and goals provided. Generative Design will run multiple generations of options, and each time it will take the fittest \(best\) options of the generation and use them to create a new generation. 
+An optimization process uses the computer to evolve your design to find the most suitable options, based on the constraints and goals provided. 
 
-Generative Design uses [NSGA-II](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf), an elitist multi-objective genetic algorithm to optimise results.
+Generative Design uses [NSGA-II](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf), an elitist multi-objective genetic algorithm to optimize results.
 
 To run an optimization process in Generative Design, follow these steps:
 

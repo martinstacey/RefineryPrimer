@@ -4,7 +4,7 @@
 
 ## Description
 
-This graph used Generative Design on the 'Optimize' mode. This is to optimize light distribution in an office layout by minimizing both the number of lighting fixtures and overlit points, while simultaneously maximizing the number of lit points on the floor surface within the space. 
+This graph used the `optimize method` to optimize light distribution in a hypothetical office layout by minimizing both the number of lighting fixtures and over-lit points, but simultaneously maximizing the number of lit points on the floor surface within the space. 
 
 The graph works by calculating unobstructed distances from light sources to an evenly-distributed series of analysis points within the floor of the selected Revit room.
 
@@ -41,7 +41,7 @@ Using optimization, the number of light sources and the overlit analysis points 
 
 When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. 
 
-Please note that all unnecessary geometry has been switched off in Dynamo - this is to ensure the geometry displayed shows the final geometric output. Any nodes with the preview switched off will not display the output visually in Generative Design. 
+Please note that all unnecessary geometry has been switched off in Dynamo - this is to ensure the geometry displayed shows the final geometric output. Any nodes with the preview switched off will not display the output visually in Explore Outcomes. 
 
 In this case, only the obstructing geometry, light sources and final coloured analysis points will be visible. The analysis points are coloured from blue to red, where blue indicates that the points are less illuminated and red indicates they are more illuminated.
 
@@ -55,13 +55,13 @@ In this case, only the obstructing geometry, light sources and final coloured an
 
 ## Benefits of Using Generative Design
 
-Without Generative Design, the designer would usually place light sources by evenly distributing them along spaces and performing lighting calculations later. In regular-shaped rooms, this method is straightforward, however if the rooms shapes are irregular then it can become complicated and result in blind spots. 
+Without using automated workflows like generative design, the designer would usually place light sources by evenly distributing them along spaces and performing lighting calculations later. In regular-shaped rooms, this method is straightforward, however if the rooms shapes are irregular then it can become complicated and result in blind spots. 
 
-Using Generative Design, the optimization method can speed up how light sources are distributed.
+Using generative design, the optimization method can speed up how light sources are distributed.
 
 ## Results
 
-Once Generative Design has finished, the results can be explored through the available tables and graphs. 
+Once generation has finished, the results can be explored through the available tables and graphs in the Explore Outcomes dialog. 
 
 The image below shows an example output from an optimized study based on ten generations with a population size of 20. The outputs were defined as minimized for both 'underlit spots' and 'overlit spots'.
 

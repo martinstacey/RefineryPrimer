@@ -7,7 +7,7 @@ To begin a workflow that uses Revit data, please do the following:
 3. Add as many _`Data.Remember`_nodes to the canvas as you need. These nodes should be placed in between the Revit nodes and the rest of the graph. Make sure the information being passed through is the correct data type \(as mentioned in the previous section\). 
 4. Run the graph so all Revit execute and all the _`Data.Remember`_ nodes have data passing through them.
 
-You can now run Generative Design directly from Dynamo for Revit, or run it in Dynamo Sandbox to make sure you have captured all of the data that Generative Design will need to run independently of the Revit process. 
+You can now Create Study directly from Dynamo for Revit, or run it in Dynamo Sandbox to make sure you have captured all of the data that Generative Design will need to run independently of the Revit process.  To do this, follow the next steps: 
 
 To do this, follow the next steps: 
 

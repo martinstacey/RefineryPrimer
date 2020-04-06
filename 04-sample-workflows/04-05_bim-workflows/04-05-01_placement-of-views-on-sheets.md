@@ -6,7 +6,7 @@
 
 This graph takes all cropped views from the current Revit document and places them onto sheets. It will create all the sheets you need to accommodate the existing cropped views, and then will generate different options for the ways the views can be laid out. 
 
-By using Generative Design, we can find solutions that minimize the number of sheets and reduce the amount of whitespace.
+By using generative design methods, we can find solutions that minimize the number of sheets and reduce the amount of whitespace.
 
 \[Download workflow files\]
 
@@ -44,15 +44,15 @@ Once all the views have been placed on sheets, the script evaluates the design b
 
 ## Benefit of Using Generative Design
 
-Without Generative Design, in running this script in Dynamo the user would be required to manually reorder the list of views manually until they manage to find the desired layout. This process would take hours, if not days \(unless the user was incredibly lucky\). 
+Without generative design, in running this script in Dynamo the user would be required to manually reorder the list of views manually until they manage to find the desired layout. This process would take hours, if not days \(unless the user was incredibly lucky\). 
 
-As the aim of this example is simple \(finding the best arrangement for the views and maximizing the space used in the sheets\), Generative Design is useful because of its ability to optimize.
+As the aim of this example is simple \(finding the best arrangement for the views and maximizing the space used in the sheets\), the optimize approach can be used. 
 
 The shuffle seed included in the script helps Generative Design to keep a record of the best-shuffled option and optimize the results from there.
 
 ## Results
 
-Once Generative Design has finished the study, the results can be explored through the Generative Design's tables and graphs. 
+Once generation has finished, the results can be explored through the  tables and graphs in the Explore Outcomes dialog. 
 
 The image below shows an example output from a randomized study based on 50 outputs. Although this graph would usually be used for optimization, in this case a randomize method was used to display the variety of results that the script may produce. 
 

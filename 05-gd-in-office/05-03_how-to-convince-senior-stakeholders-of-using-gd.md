@@ -8,7 +8,7 @@ Because of this, it's important that the benefits of using Generative Design can
 
 ## Convincing Seniors/Stakeholders
 
-If you are clear that Generative Design for Revit can improve performance in your office and confident that with Generative Design you'll be able to explore a wider design spectrum than through traditional methods, you may need to figure out how to communicate these advantages to someone who hasn't used it or who has little interest in understanding its capabilities.
+If you are clear that Generative Design for Revit can improve performance in your office and confident that with generative design you'll be able to explore a wider design spectrum than through traditional methods, you may need to figure out how to communicate these advantages to someone who hasn't used it or who has little interest in understanding its capabilities.
 
 Below are some tips that may help you talk to senior stakeholders and people outside of the AEC technology spectrum to use or invest in generative design.
 
@@ -16,7 +16,7 @@ Below are some tips that may help you talk to senior stakeholders and people out
 
 ![](../.gitbook/assets/howtoconvince2.png)
 
-Instead of focusing on the all the potential benefits Generative Design can offer, start by thinking of day-to-day concerns it may be able to help you with. Thnk about what is stopping your team from being more productive and ask if Generative Design can help you solve it.
+Instead of focusing on the all the potential benefits generative design can offer, start by thinking of day-to-day concerns it may be able to help you with. Think about what is stopping your team from being more productive and ask if generative design can help you solve it.
 
 ### Start with Easy Problems
 
@@ -36,5 +36,5 @@ Every problem you intend to solve should have an estimated time-frame and cost d
 
 ![](../.gitbook/assets/howtoconvince5.png)
 
-As mentioned in the section '[What Can't Generative Design Be Used for?](05-02_what-generative-design-cant-be-used-for.md)', it is important to manage expectations when it comes to talking about Generative Design's capabilities to ensure that people have a clear understanding of what it is for and how it can help.
+As mentioned in the section '[What Can't Generative Design Be Used for?](05-02_what-generative-design-cant-be-used-for.md)', it is important to manage expectations when it comes to talking about generative design's capabilities to ensure that people have a clear understanding of what it is for and how it can help.
 

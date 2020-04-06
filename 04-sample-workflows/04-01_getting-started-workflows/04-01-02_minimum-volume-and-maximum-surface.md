@@ -1,6 +1,6 @@
 # Minimum Volume and Maximum Surface
 
-The _`01-02_Minimum-volume-and-maximum-surface.dyn`_ graph in the Generative Design examples is a multi-objective optimization problem, with two competing objectives. 
+The _`01-02_Minimum-volume-and-maximum-surface.dyn`_ graph in the examples is a multi-objective optimization problem, with two competing objectives. 
 
 The graph consists of three cuboids with different variable parameters, such as height and location. The objectives of the graph are to find an option with minimal volume and maximum combined surface area.
 
@@ -27,7 +27,7 @@ Whenever an input parameter is changed, the option's volume and total surface ar
 
 ![](../../.gitbook/assets/applychanges6.png)
 
-When running this graph in Generative Design, you will need to follow these steps:
+When running this graph, you will need to follow these steps:
 
 1. Use the 'Optimize' generation method.
 2. Under 'Inputs', make sure that all inputs are selected.

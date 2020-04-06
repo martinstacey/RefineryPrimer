@@ -4,7 +4,7 @@
 
 ## Description
 
-This graph uses Generative Design on optimize mode to place objects in a room/space using a grid formation. The graph will compare the percentage of total coverage, the number of objects placed and the overlap in area of object influence, as various grid configurations are explored through Generative Design. 
+This graph uses the optimize method to place objects in a room/space using a grid formation. The graph will compare the percentage of total coverage, the number of objects placed and the overlap in area of object influence, as various grid configurations are explored through Generative Design. 
 
 Although a simplified approach, this graph can be used as the foundation to explore more complex and personalized criteria that relate specifically to your project or practice. 
 
@@ -52,9 +52,9 @@ Using optimization, the object's coverage and number of objects is maximized whi
 
 ## Results
 
-Generative Design will display various grid configurations. In this example, you can see results in the X- and Y-axes,  according to their X and Y seed. Each result is displayed as a point, where the point’s size is determined by the number of objects of each result.
+Explore Outcomes will display various grid configurations. In this example, you can see results in the X- and Y-axes,  according to their X and Y seed. Each result is displayed as a point, where the point’s size is determined by the number of objects of each result.
 
 ![](../../.gitbook/assets/workflowgrid2.png)
 
-Once Generative Design has finished, the results can be explored through Generative Design's tables and graphs. The image below shows an example output from an optimized study based on four generations with a population of 20.
+Once generation has finished, the results can be explored through the tables and graphs in the Explore Outcomes dialog. The image below shows an example output from an optimized study based on four generations with a population of 20.
 

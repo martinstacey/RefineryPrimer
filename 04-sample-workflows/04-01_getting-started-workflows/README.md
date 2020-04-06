@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/beginer.png)
 
-This section will run through some simple workflows to get you started in Generative Design:
+This section will run through some simple workflows to get you started with generative design workflows:
 
 * [Highest point of a surface](04-01-01_highest-point-of-a-surface.md)
 * [Minimum volume and maximum surface](04-01-02_minimum-volume-and-maximum-surface.md)

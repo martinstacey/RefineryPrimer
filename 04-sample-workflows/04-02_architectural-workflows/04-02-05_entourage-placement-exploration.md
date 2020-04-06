@@ -47,7 +47,7 @@ The script will begin by extracting the surface of a room. This room will be use
 
 ## Visualization
 
-Generative Design will display the surface of the room selected and the entourage elements as lines. We suggest you combine this with the 3D view used so that you get results as you export them to Revit.
+The results in Explore Outcomes will display the surface of the room selected, the point of interest and the entourage elements as lines. We suggest you combine this with the 3d view used so that you get results as you export them to Revit.
 
 ![](../../.gitbook/assets/workflowrandom3%20%281%29.gif)
 
@@ -62,7 +62,8 @@ There is no optimization in this example, however some metrics will provide info
 
 ## Results
 
-Once Generative Design has completed, the results can be explored through Generative Design's tables and graphs.
+Once generation has completed, the results can be explored through the tables and graphs in the  Explore Outcomes dialog.  
+
 
 The image below shows an example output from a randomized study based on 40 solutions.
 

@@ -38,9 +38,11 @@ Contributions are of course welcome. You can contribute to the primer in the fol
 
 ## Contact
 
-Please let us know about any issues with this document by sending and email to the following email address:
+Please let us know about any issues with this document by sending and email to the following email address:  aecgdfeedback@autodesk.com
 
-[refineryfeedback@autodesk.com](mailto:refineryfeedback@autodesk.com)
+{% embed url="https://refineryfeedback@autodesk.com" %}
+
+
 
 ## License
 

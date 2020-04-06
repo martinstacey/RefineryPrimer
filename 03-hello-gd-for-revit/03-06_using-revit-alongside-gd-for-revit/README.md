@@ -1,6 +1,6 @@
 # Using Revit Alongside Generative Design
 
-There are many ways to integrate the Generative Design process with current workflows. 
+There are many ways to integrate generative design processes with current workflows. One key method is to use it to analyze current or create new Revit geometrical and non-geometrical data.
 
 One key method is to use it to analyse current, or create new, Revit geometrical and non-geometrical data.
 

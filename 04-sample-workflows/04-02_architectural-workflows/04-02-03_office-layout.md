@@ -37,7 +37,7 @@ This graph extracts the underlying surface from the floor geometry and builds pe
 
 When geometry is created in Dynamo, often other geometry is needed to facilitate the overall process. 
 
-Please note that all unnecessary geometry has been switched off in Dynamo - this is to ensure the geometry displayed shows the final geometric output. Any nodes with the preview switched off will not display the output visually in Generative Design. 
+Please note that all unnecessary geometry has been switched off in Dynamo - this is to ensure the geometry displayed shows the final geometric output. Any nodes with the preview switched off will not display the output visually in Explore Outcomes.
 
 In this case, only the perimeter lines of the floor plate, neighborhood boundaries, amenity spaces and office desks will be visible. The amenity spaces are shown in grey to differentiate them from the rest of the geometry.
 
@@ -50,11 +50,11 @@ In this case, only the perimeter lines of the floor plate, neighborhood boundari
 
 ## Generative Design
 
-Designers can spend hours laying out repetitive areas such as offices and toilets. By creating an algorithm with clear goals like this \('maximum number of desks' and 'maximum amenity space'\), Generative Design can be used as the solver to arrive at the best solution quicker.
+Designers can spend hours laying out repetitive areas such as offices and toilets. By creating an algorithm with clear goals like this \(maximum number of desks and maximum amenity space\), optimize can be used as the solver to arrive at the best solution quicker.
 
 ## Results
 
-Once Generative Design has finished, the results can be explored through the available Generative Design's tables and graphs. The image below shows an example output from a randomized study based on 35 solutions.
+Once generation has completed, the results can be explored through the  tables and graphs in the Explore Outcomes dialog. The image below shows an example output from a randomized study based on 35 solutions.
 
 ![](../../.gitbook/assets/workflow32.png)
 

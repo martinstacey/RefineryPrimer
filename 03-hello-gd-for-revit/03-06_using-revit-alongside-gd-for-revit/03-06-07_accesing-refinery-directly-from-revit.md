@@ -1,10 +1,10 @@
 # Accessing Generative Design Directly from Revit
 
-In the Revit preview release, you'll find a new plugin that lets you access Generative Design directly from Revit. This plugin is intended for users who are not familiar with Dynamo so that they can explore Generative Design without needing to create their own workflows \(similar to 'Dynamo Player'\).
+In  Revit 2021 you'll find a new add-in that lets you access generative design tools directly from Revit. This add-in is intended for users who are not familiar with Dynamo so that they can explore Generative Design without needing to create their own workflows \(similar to 'Dynamo Player'\).
 
 ## Accessing Generative Design
 
-To access Generative Design from Revit, you'll need to do the following:
+To access Generative Design in Revit, you'll need to do the following:
 
 1. Firstly, go to the 'Manage' tab on your toolbar.
 
@@ -22,7 +22,7 @@ To access Generative Design from Revit, you'll need to do the following:
 
 ![](../../.gitbook/assets/accessrefinery4%20%281%29.png)
 
-5. Once all inputs are satisfied, click 'Generate'. This will start Generative Design and present you with the same window you'll have seen from the 'Create Study' function in the Dynamo environment. 
+5. Once all inputs are satisfied, click 'Generate'. This will start the automated processing and present you with the same window you'll have seen from the`Create Study` function in the Dynamo environment. 
 
 From here, you can explore all of your different options through the charts and tables. If you select a design, you can then export your results to Revit by clicking on the 'Create Revit Elements' button.
 
