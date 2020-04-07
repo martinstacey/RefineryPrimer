@@ -10,7 +10,7 @@ In a nutshell, generative design is a goal-driven approach to design that levera
 
 As the designer, you specify which outcomes you want to achieve for your design and how they are measured. With your guidance, the computer produces sets of optimal designs, along with the data used to prove which design performs best against your goals. By analyzing how the generated designs measure up against the set goals, you can gain valuable insight into which design aspects impact the outcome and how.
 
-![](../../.gitbook/assets/whyusegen1.gif)
+<img src="../../assets/intro/whyusegen1.gif" style="width:200px;"/>
 
 > Maximization of active shared spaces - Mars Innovation District - The Living
 
@@ -20,7 +20,7 @@ Generative design can help you find better designs for your project more quickly
 
 Computers can generate and evaluate a huge number of design variants in only a fraction of the time it would take an individual designer, allowing you to learn what does and doesn't work at an accelerated pace.
 
-![](../../.gitbook/assets/whyusegen2.gif)
+<img src="../../assets/intro/whyusegen2.gif" style="width:200px;"/>
 
 > _Above: Design options generated - Mars Innovation District - The Living_
 
@@ -30,7 +30,7 @@ With s generative design approach, the initial design parameters you input are u
 
 For example, using traditional computational design techniques, it's feasible for you to explore ten variants \(or more, perhaps\). However, using generative design, an algorithm can generate thousands of variants in mere minutes.
 
-![](../../.gitbook/assets/whyusegen3.gif)
+<img src="../../assets/intro/whyusegen3.gif" style="width:200px;"/>
 
 > _Above: Design options generated - Bionic Partition for Airbus - The Living_
 

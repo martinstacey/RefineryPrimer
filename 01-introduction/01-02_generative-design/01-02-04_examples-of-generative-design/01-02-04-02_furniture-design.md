@@ -4,7 +4,7 @@ Looking at a simpler example, let's consider the process of designing a typical,
 
 Using a standard approach, you as the designer would manually define the length, width, height and material of the table. The resulting output is a single, physical object with a fixed, immutable form. Here, you have the option to test several distinct sets of dimensions and material combinations to end up with three or four prototypes \(or however many iterations you wanted\).
 
-![](../../../.gitbook/assets/furn1.png)
+<img src="../../../assets/intro/furn1.png" style="width:200px;"/>
 
 In a generative design approach, you would instead create an algorithm that specifies:
 
@@ -18,7 +18,7 @@ Then, you would use a computer to run the algorithm and generate a series of des
 
 Some designs will be short and wide, others will be tall and thin, but each will satisfy the user-defined constraints. This is key, as many designs can be generated very quickly, much more than any human could feasibly examine.
 
-![](../../../.gitbook/assets/furn2.png)
+<img src="../../../assets/intro/furn2.png" style="width:200px;"/>
 
 > Let's imagine the computer looked at 20 different values for each of: length, width, height, table/leg material combinations. The resulting solution space would be 20\*20\*20\*20 = 160,000 designs, which is way too many options for a person to reasonably evaluate.
 
@@ -28,7 +28,7 @@ _Above: Matrix showing 36 generated table designs, varying width, length, and he
 
 The next step is to define how the generated designs are evaluated. This is your opportunity to clearly express your design goals.
 
-![](../../../.gitbook/assets/furn3.jpg)
+<img src="../../../assets/intro/furn3.png" style="width:200px;"/>
 
 _Above: A range of table designs \(sizes\), colour-coded based on evaluator function result \(cost\)._
 
@@ -47,7 +47,7 @@ For the second scenario, we're aiming to maximize return on investment \(ROI\) f
 
 This second scenario is a good illustration of using generative design to work towards multiple and competing goals, which is very hard for humans to replicate.
 
-![](../../../.gitbook/assets/furn4.jpg)
+<img src="../../../assets/intro/furn4.png" style="width:200px;"/>
 
 _Above: Visualizing evaluator function results as a color range._
 

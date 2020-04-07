@@ -4,7 +4,7 @@ _`Computational design`_ is not any one algorithm or off-the-shelf process you c
 
 Crucially, these steps must be computable, meaning they can be understood and calculated by a computer.
 
-![](../.gitbook/assets/compdesign.gif)
+<img src="../assets/intro/compdesign.gif" style="width:200px;"/>
 
 > _Above: Image of an NURBS manipulations from Martin Stacey - UCL._
 
