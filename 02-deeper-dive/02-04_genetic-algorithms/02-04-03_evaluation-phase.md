@@ -8,7 +8,7 @@ A fitness function is used to evaluate how close \(or far off\) a given design s
 
 The genetic algorithm is designed to improve the model's fitness again and again, so defining a fitness function precisely and accurately is vital.
 
-![](../../.gitbook/assets/evaluation1.png)
+<img src="../../assets/deeper/evaluation1.png" style="width:200px;"/>
 
 Some examples of fitness functions that could be used in a generative design context include:
 
@@ -22,7 +22,7 @@ Some examples of fitness functions that could be used in a generative design con
 
 You can see here that these suggestions are always framed as either a maximization or minimization problem. As discussed above, this formulation is crucial for an optimization approach to be effective.
 
-![](../../.gitbook/assets/evaluation2.png)
+<img src="../../assets/deeper/evaluation2.png" style="width:200px;"/>
 
 Another thing to consider is that it's desirable for fitness functions to be calculated very efficiently by a computer; that is, a good fitness function can be calculated quickly. With experience, a user comes to learn which kinds of fitness functions are likely to be particularly fast or slow.
 
@@ -30,7 +30,7 @@ One of the great strengths of a genetic approach is that the fitness function ca
 
 In fact, a single genetic model can have multiple competing fitness functions for example, minimizing the weight of a design while also making it as structurally sound as possible \(this is also known as 'multi-objective optimization'\).
 
-![](../../.gitbook/assets/evaluation3.png)
+<img src="../../assets/deeper/evaluation3.png" style="width:200px;"/>
 
 Only once a fitness function has been defined can the selection phase of a genetic algorithm begin.
 

@@ -1,6 +1,8 @@
 # Building Mass Generator
 
-![](../../.gitbook/assets/workflow11.gif)
+<p align="center">
+  <img src="../../assets/sample/workflow11.gif" style="width:200px;"/>
+</p>
 
 ## Description
 
@@ -64,5 +66,7 @@ Once the computer has finished running the script, the outcomes can be explored 
 
 The image below shows an example output from a randomized study based on 40 solutions.
 
-![](../../.gitbook/assets/workflow12.png)
+<p align="center">
+<img src="../../assets/sample/workflow12.png" style="width:85%;"/>
+</p>
 

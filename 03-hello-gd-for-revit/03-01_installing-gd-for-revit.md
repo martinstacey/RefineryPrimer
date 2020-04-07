@@ -6,9 +6,9 @@ In order to use Generative Design, you need to sign up to the Generative Design 
 
 [https://www.autodesk.com/solutions/refinery-beta](https://www.autodesk.com/solutions/refinery-beta)
 
-![](../.gitbook/assets/install1.png)
+<img src="../assets/hello/install1.png" style="width:200px;"/>
 
-![](../.gitbook/assets/install2.png)
+<img src="../assets/hello/install2.png" style="width:200px;"/>
 
 ## The Generative Design Community
 
@@ -22,7 +22,7 @@ After signing up for the beta version, you'll be presented with an overview of t
 
 Any new releases of Generative Design will be available to download and install from this location too.
 
-![](../.gitbook/assets/install3.png)
+<img src="../assets/hello/install3.png" style="width:200px;"/>
 
 _Above: The Generative Design community homepage._
 
@@ -32,7 +32,7 @@ To install the latest version of Generative Design, go to the 'Getting Started' 
 
 After making sure you have all the initial requirements, please follow the step-by-step guide in the install section.
 
-![](../.gitbook/assets/install4.png)
+<img src="../assets/hello/install4.png" style="width:200px;"/>
 
 _Above: The Generative Design beta community Getting Started instructions page._
 

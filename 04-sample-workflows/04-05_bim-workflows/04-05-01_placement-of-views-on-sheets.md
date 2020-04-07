@@ -1,6 +1,8 @@
 # Placement of Views on Sheets
 
-![](../../.gitbook/assets/workflowsheets1.gif)
+<p align="center">
+  <img src="../../assets/sample/workflowsheets1.gif">
+</p>
 
 ## Description
 
@@ -58,5 +60,7 @@ The image below shows an example output from a randomized study based on 50 outp
 
 From the graph below, you can see that most results require two sheets \(represented as small circles\) but some require three sheets \(big circles\). The Y-axis represents how well ordered the views are placed.
 
-![](../../.gitbook/assets/workflowsheets2.png)
+<p align="center">
+<img src="../../assets/sample/workflowsheets2.png" style="width:85%;"/>
+</p>
 

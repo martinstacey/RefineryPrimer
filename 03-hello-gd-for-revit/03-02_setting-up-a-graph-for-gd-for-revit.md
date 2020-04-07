@@ -10,7 +10,7 @@ Renaming the node with a standard approach such as _`IN_description`_ will help 
 
 _Note: Currently all inputs must be 'Number' slider nodes._
 
-![](../.gitbook/assets/setting1.png)
+<img src="../assets/hello/setting1.png" style="width:200px;"/>
 
 ## Outputs
 
@@ -22,7 +22,7 @@ Renaming the node with a standard approach such as _`OUT_description`_ will help
 
 _Note: Currently all outputs must be watch nodes with a 'Number' data type._
 
-![](../.gitbook/assets/setting2.png)
+<img src="../assets/hello/setting2.png" style="width:200px;"/>
 
 ## Export to Generative Design
 
@@ -34,11 +34,11 @@ To create an export to use with Generative Design, please do the following:
 
 1. In Dynamo, navigate to the toolbar and select Generative Design &gt; Export for Generative Design. Generative Design will then create a copy of your graph which will be available to launch.
 
-![](../.gitbook/assets/setting21.png)
+<img src="../assets/hello/setting21.png" style="width:200px;"/>
 
 _Note: Graphs with the same name will be overwritten._
 
-![](../.gitbook/assets/setting22.png)
+<img src="../assets/hello/setting22.png" style="width:200px;"/>
 
 ## Launch Generative Design
 
@@ -46,9 +46,9 @@ To launch Generative Design, please do the following:
 
 1. In Dynamo, navigate to the toolbar and select Generative Design &gt; Create Study.
 
-![](../.gitbook/assets/setting23.png)
+<img src="../assets/hello/setting23.png" style="width:200px;"/>
 
 Once the Create Study dialog has launched, select a study that you have exported from Dynamo.
 
-![](../.gitbook/assets/setting3.png)
+<img src="../assets/hello/setting3.png" style="width:200px;"/>
 

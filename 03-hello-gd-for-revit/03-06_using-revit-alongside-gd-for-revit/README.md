@@ -4,7 +4,9 @@ There are many ways to integrate generative design processes with current workfl
 
 One key method is to use it to analyse current, or create new, Revit geometrical and non-geometrical data.
 
-![](../../.gitbook/assets/revitandrefinery.png)
+<p align="center">
+<img src="../../assets/hello/revitandrefinery.png" style="width:85%;"/>
+</p>
 
 In this section, we’ll look at:
 

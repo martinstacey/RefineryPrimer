@@ -1,6 +1,8 @@
 # Distributing Spotlights in an Office Space
 
-![](../../.gitbook/assets/workflowmep1.gif)
+<p align="center">
+  <img src="../../assets/sample/workflowmep1.gif">
+</p>
 
 ## Description
 
@@ -69,5 +71,7 @@ The image below shows an example output from an optimized study based on ten gen
 
 We want to thank Jared Linden Digital Applications Developer at Hoare Lea for contributing this workflow to this document.
 
-![](../../.gitbook/assets/workflowsmep2.png)
+<p align="center">
+<img src="../../assets/sample/workflowsmep2.png" style="width:100%;"/>
+</p>
 

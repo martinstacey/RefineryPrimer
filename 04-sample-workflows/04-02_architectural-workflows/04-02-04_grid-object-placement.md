@@ -1,6 +1,8 @@
 # Grid Object Placement in a Room
 
-![](../../.gitbook/assets/workflowgrid1.gif)
+<p align="center">
+  <img src="../../assets/sample/workflowgrid1.gif">
+</p>
 
 ## Description
 
@@ -54,7 +56,9 @@ Using optimization, the object's coverage and number of objects is maximized whi
 
 Explore Outcomes will display various grid configurations. In this example, you can see results in the X- and Y-axes,  according to their X and Y seed. Each result is displayed as a point, where the point’s size is determined by the number of objects of each result.
 
-![](../../.gitbook/assets/workflowgrid2.png)
+<p align="center">
+<img src="../../assets/sample/workflowgrid2.png" style="width:85%;"/>
+</p>
 
 Once generation has finished, the results can be explored through the tables and graphs in the Explore Outcomes dialog. The image below shows an example output from an optimized study based on four generations with a population of 20.
 

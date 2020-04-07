@@ -1,6 +1,6 @@
 # Optimization
 
-![](../../.gitbook/assets/optimization.png)
+<img src="../../assets/deeper/optimization.png" style="width:200px;"/>
 
 In this chapter, we’ll look at:
 

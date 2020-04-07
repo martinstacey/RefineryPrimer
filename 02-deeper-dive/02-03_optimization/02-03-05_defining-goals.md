@@ -4,7 +4,7 @@ When it comes to generative design processes, it is vital that you know your des
 
 Algorithms are great at churning through thousands of design options very quickly, but they don’t perform nearly as well if they're given vague or imprecise instructions. You must be able to define your problem in a mathematical way \(i.e. with some sort of number that can be used to rank outcomes\).
 
-![](../../.gitbook/assets/definegoals.png)
+<img src="../../assets/deeper/definegoals.png" style="width:200px;"/>
 
 Some good questions to ask when formulating design goals are:
 

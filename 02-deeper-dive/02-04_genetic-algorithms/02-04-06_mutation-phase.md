@@ -2,7 +2,7 @@
 
 Here, randomness is introduced to algorithm. With mutation, certain offspring are subject to \(low probability\) random mutations at each crossover, meaning that some of their traits randomly change \(or mutate\) and are not inherited from their parents.
 
-![](../../.gitbook/assets/mutation.png)
+<img src="../../assets/deeper/mutation.png" style="width:200px;"/>
 
 The motivation for mutation is that, with some luck, a mutant offspring may have even better features than its parents, making it more likely to be selected for crossover in the next stage and that its good genes become entrenched in the population. 
 

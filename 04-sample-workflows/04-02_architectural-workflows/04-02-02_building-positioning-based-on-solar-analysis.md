@@ -1,6 +1,8 @@
 # Building Positioning Based on Solar Analysis
 
-![](../../.gitbook/assets/workflow21.gif)
+<p align="center">
+  <img src="../../assets/sample/workflow21.gif">
+</p>
 
 ## Description
 
@@ -65,5 +67,7 @@ Once the study has completed, the results can be explored through the  tables an
 
 The image below shows an example output from an optimized study based on ten generations with a population of 20. The outputs were defined as minimized for both _`OUT_Area Out(m2)`_ and _`OUT_Avg.(kWh/m2)`_.
 
-![](../../.gitbook/assets/workflow22.png)
+<p align="center">
+<img src="../../assets/sample/workflow22.png" style="width:85%;"/>
+</p>
 

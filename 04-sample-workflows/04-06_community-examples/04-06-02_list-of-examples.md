@@ -12,7 +12,9 @@
 
 [Download files for this workflow](../../).
 
-![](../../.gitbook/assets/rah_threesolidtowersolaranalysis.png)
+<p align="center">
+  <img src="04-06-00_Example-files/RAH_ThreeSolidTowerSolarAnalysis/RAH_ThreeSolidTowerSolarAnalysis.png">
+</p>
 
 ## MEP Workflows
 

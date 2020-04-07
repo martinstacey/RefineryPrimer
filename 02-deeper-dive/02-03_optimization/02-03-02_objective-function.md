@@ -6,7 +6,7 @@ The objective function can be thought of as the goal of your generative design p
 
 In finance, the objective function is usually to maximize portfolio value; in aerospace engineering the objective is often to minimize weight.
 
-![](../../.gitbook/assets/objectivefunction1.png)
+<img src="../../assets/deeper/objectivefunction1.png" style="width:200px;"/>
 
 > The key to objective function is that it must be quantifiable - you must be able to put a number to it.
 
@@ -20,7 +20,7 @@ In this scenario, the computer will return a single optimal solution e.g. the su
 
 ## Multi-Objective Optimization
 
-![](../../.gitbook/assets/objectivefunction2.png)
+<img src="../../assets/deeper/objectivefunction2.png" style="width:200px;"/>
 
 Multi-objective optimization involves using multiple objective functions. 
 

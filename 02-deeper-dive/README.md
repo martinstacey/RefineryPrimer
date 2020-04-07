@@ -2,7 +2,7 @@
 
 In this chapter, we'll dive into more complex concepts in the world of generative design.
 
-![](../.gitbook/assets/deeper.png)
+<img src="../assets/deeper/deeper.png" style="width:200px;"/>
 
 We will explore the following topics:
 

@@ -2,7 +2,7 @@
 
 This section will explore a series of workflows related to architecture.
 
-![](../../.gitbook/assets/workflows1.png)
+<img src="../../assets/sample/workflows1.png" style="width:200px;"/>
 
 In this section, we will look at: 
 
