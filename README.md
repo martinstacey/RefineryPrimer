@@ -2,6 +2,12 @@
 
 Welcome to the **Refinery Primer**, which aims to introduce AEC practitioners of all experience levels to an exciting new approach to design using generative design workflows.
 
+{% embed url="https://www.youtube.com/watch?v=-fvXtdnKDfI&t=11s" %}
+
+
+
+{% page-ref page="./" %}
+
 ![](https://github.com/martinstacey/RefineryPrimer/tree/f565c2e5d3b423678fe7a90e35b5b52984bbd6fd/.gitbook/assets/introgif.gif)
 
 ## About
